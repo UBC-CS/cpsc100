@@ -1,4 +1,4 @@
-# CPSC 203
+# CPSC 100
 
 ## Features
 
