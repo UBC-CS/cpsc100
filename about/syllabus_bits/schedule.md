@@ -1,26 +1,27 @@
 This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
-| Week | Week of | Topic                   | Lab    | Test | Test Content                   |
-| ---- | ------- | ----------------------- | ------ | ---- | ------------------------------ |
-| 1    | Sep 1*  | Introductions           | Lab 1  | -    |                                |
+| Week | Week of | Topic                   | Lab    | Test  | Test Content                   |
+| ---- | ------- | ----------------------- | ------ | ----- | ------------------------------ |
+| 1    | Sep 1*  | Introductions           | Lab 1  | -     |                                |
 | 2    | Sep 8   | Algorithms              | Lab 2  | T0*   | Intro, Markdown                |
-| 3    | Sep 15  | Programming             | Lab 3  | T1   | Alg 1, Alg 2, Using AI (?)     |
-| 4    | Sep 22  | Data Mining             | Lab 4  | T2   | [Alg 3, Alg 4]**
-| 5    | Sep 29  | Data Representation     | Lab 5  | T3   | Prog 1, Prog 2, Prog 3, Prog 4 |
-| 6    | Oct 6   | Catch-up Week           | -      | T4   | Min 1, Min 2, Min 3            |
-| 7    | Oct 13* | Data Storage            | Lab 6  | T5   | Rep 1, Rep 2                   |
-| 8    | Oct 20  | Artificial Intelligence | Lab 7  | T6   | Rep 3, Rep 4, [HCI 1]?         |
-| 9    | Oct 27  | Artificial Intelligence | Lab 8  | T7   | AI1, AI2, AI3                  |
-| 10   | Nov 3   | Internet                | Lab 9  | T8   | AI4, AI5, AI6                  |
-| 11   | Nov 10  | Fall reading break      | -      | T9   | I1, I2, I3                     |
-| 12   | Nov 17  | Data Visualization      | Lab 10 |      |                                |
-| 13   | Nov 24  | Maps                    | Lab 11 | T10  | V1, V2, V3                     |
-| 14   | Dec 1   | Review                  | -      | T11  | D1, D2                         |
+| 3    | Sep 15  | Programming             | Lab 3  | T1    | Alg 1, Alg 2, Using AI (?)     |
+| 4    | Sep 22  | Data Mining             | Lab 4  | T2    | [Alg 3, Alg 4]**               |
+| 5    | Sep 29  | Data Representation     | Lab 5  | T3    | Prog 1, Prog 2, Prog 3, Prog 4 |
+| 6    | Oct 6   | Catch-up Week           | -      | T4    | Min 1, Min 2, Min 3            |
+| 7    | Oct 13* | Data Storage            | Lab 6  | T5    | Rep 1, Rep 2                   |
+| 8    | Oct 20  | Artificial Intelligence | Lab 7  | T6    | Rep 3, Rep 4, [HCI 1]?         |
+| 9    | Oct 27  | Artificial Intelligence | Lab 8  | T7    | AI1, AI2, AI3                  |
+| 10   | Nov 3   | Internet                | Lab 9  | T8    | AI4, AI5, AI6                  |
+| 11   | Nov 10  | Fall reading break      | -      | T9*** | I1, I2, I3                     |
+| 12   | Nov 17  | Data Visualization      | Lab 10 |       |                                |
+| 13   | Nov 24  | Maps                    | Lab 11 | T10   | V1, V2, V3                     |
+| 14   | Dec 1   | Review                  | -      | T11   | D1, D2                         |
 
 
-* Not for marks, used to get familiar with syllabus, course goals (Intro), and CBTF 
-** Alg 3 and Alg 4 are noted below in lecture notes, however, the Algorithms topic is only scheduled for 1 week above (Week 2, noted as Alg 1-3). If there are no 4 Alg 3 and Alg 4 classes, then everything can shift up 1 by week.  
+* Not for marks, used to get familiar with syllabus, course goals (Intro), and CBTF
+** Alg 3 and Alg 4 are noted below in lecture notes, however, the Algorithms topic is only scheduled for 1 week above (Week 2, noted as Alg 1-3). If there are no 4 Alg 3 and Alg 4 classes, then everything can shift up 1 by week.
+*** T9 can be shifted by 1 week so it is not during reading break, however, students may need to adjust their study schedules accordingly (since the topic would have been covered 2 weeks prior). My recommendations would be to provide them with 2 weeks time for maximum flexibility.
 
 [W1]     1B, 1C     - --------, Intro 1, Markdown
 [W2]  2A, 2B, 2C     - Alg 1, Alg 2, Using AI,      +
