@@ -8,15 +8,15 @@ Things may change depending on many factors so this is subject to change.
 | 3    | Sep 15  | Algorithms and Programming | Lab 3  | T1   | Alg 1, Alg 2, Using AI (?)     |
 | 4    | Sep 22  | Programming                | Lab 4  | T2   | Alg 3, Alg 4              |
 | 5    | Sep 29  | Data Representation        | Lab 5  | T3   | Prog 1, Prog 2, Prog 3, Prog 4 |
-| 6    | Oct 6   |  Internet             | -      | T4   | Rep 1, Rep 2, Rep 3            |
+| 6    | Oct 6   |  Internet             | Lab 6      | T4   | Rep 1, Rep 2, Rep 3            |
 | 7    | Oct 13* | Catch-up Week | - | -  | -   | -                   |
-| 8    | Oct 20  | Artificial Intelligence  | Lab 6  | T6   | I1, I2, I3         |
-| 9    | Oct 27  | Artificial Intelligence    | Lab 7  | T7   | AI1, AI2, AI3                  |
-| 10   | Nov 3   |  Data Mining  | Lab 8  | T8   | AI4, AI5, AI6                  |
+| 8    | Oct 20  | Artificial Intelligence  | Lab 7  | T6   | I1, I2, I3         |
+| 9    | Oct 27  | Artificial Intelligence    | Lab 8  | T7   | AI1, AI2, AI3                  |
+| 10   | Nov 3   |  Data Mining  | Lab 9  | T8   | AI4, AI5, AI6                  |
 | 11   | Nov 10  | Fall reading break         | -      | -    |                                |
 | 12   | Nov 17  |  Data storage/privacy/provenance | Lab 10 | T9   | Min 1, Min 2, Min 3                     |
-| 13   | Nov 24  | Data Visualization     | Lab 9 | T10  | D1, D2, D3                     |
-| 14   | Dec 1   | HCI & Review         | Lab 10      | T11  | V1, V2, V3                     |
+| 13   | Nov 24  | Data Visualization     | Lab 11 | T10  | D1, D2, D3                     |
+| 14   | Dec 1   | HCI & Review         | -      | T11  | V1, V2, V3                     |
 
 * Not for marks, used to get familiar with syllabus, course goals (Intro), and CBTF
 ** Alg 3 and Alg 4 are noted below in lecture notes, however, the Algorithms topic is only scheduled for 1 week above (Week 2, noted as Alg 1-3). If there are no 4 Alg 3 and Alg 4 classes, then everything can shift up 1 by week.
