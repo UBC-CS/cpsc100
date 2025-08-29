@@ -1,22 +1,22 @@
 This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
-| Week | Week of | Topic                      | LL   | Lab    | Test |
-|------|---------|----------------------------|------|--------|------|
-| 1    | Sep 1   | Introductions              | LL0  | Lab 0  | -    |
-| 2    | Sep 8   | Algorithms and Using AI    | LL1  | Lab 1  | T1   |
-| 3    | Sep 15  | Algorithms and Programming | LL2  | Lab 2  | T2   |
-| 4    | Sep 22  | Programming                | LL3  | Lab 3  | T3   |
-| 5    | Sep 29  | Data Representation        | LL4  | Lab 4  | T4   |
-| 6    | Oct 6   | Internet and HCI           | LL5  | Lab 5  | T5   |
-| 7    | Oct 13  | Catch-up Week              | -    | -      | -    |
-| 8    | Oct 20  | Artificial Intelligence    | LL06 | Lab 6  | T6   |
-| 9    | Oct 27  | Artificial Intelligence    | LL07 | Lab 7  | T7   |
-| 10   | Nov 3   | Data Mining                | LL08 | Lab 8  | T8   |
-| 11   | Nov 10  | Fall reading break         | -    | -      | -    |
-| 12   | Nov 17  | Data Provenance            | LL09 | Lab 9  | T9   |
-| 13   | Nov 24  | Data Visualization         | LL10 | Lab 10 | T10  |
-| 14   | Dec 1   | Final Projects             | LL11 | -      | T11  |
+| Week | Week of | Topic                      | LL   | Lab    | Project | Test |
+|------|---------|----------------------------|------|--------|---------|------|
+| 1    | Sep 1   | Introductions              | LL0  | Lab 0  |         | -    |
+| 2    | Sep 8   | Algorithms and Using AI    | LL1  | Lab 1  |         | T1   |
+| 3    | Sep 15  | Algorithms and Programming | LL2  | Lab 2  |         | T2   |
+| 4    | Sep 22  | Programming                | LL3  | Lab 3  | P1      | T3   |
+| 5    | Sep 29  | Data Representation        | LL4  | Lab 4  |         | T4   |
+| 6    | Oct 6   | Internet and HCI           | LL5  | Lab 5  | P2      | T5   |
+| 7    | Oct 13  | Catch-up Week              | -    | -      |         | -    |
+| 8    | Oct 20  | Artificial Intelligence    | LL06 | Lab 6  |         | T6   |
+| 9    | Oct 27  | Artificial Intelligence    | LL07 | Lab 7  | P3      | T7   |
+| 10   | Nov 3   | Data Mining                | LL08 | Lab 8  |         | T8   |
+| 11   | Nov 10  | Fall reading break         | -    | -      |         | -    |
+| 12   | Nov 17  | Data Provenance            | LL09 | Lab 9  | P4      | T9   |
+| 13   | Nov 24  | Data Visualization         | LL10 | Lab 10 |         | T10  |
+| 14   | Dec 1   | Final Projects             | LL11 | -      | P5      | T11  |
 
 <!-- ## Organizing Notes
 
