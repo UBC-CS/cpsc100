@@ -5,35 +5,14 @@ The grading scheme for this course is:
 
 | Item             | Weight | Due date(s)       | Category   |
 |------------------|--------|-------------------|------------|
-| Learning Logs    | 5%     | TBD               | Homework   |
-| Class Activities | 10%    | TBD               | Class Work |
-| Labs             | 10%    | Thursdays at noon | Homework   |
-| Project          | 15%    | TBD               |            |
-| Tests            | 20%    | \~ Bi-weekly      | Exam       |
-| Final Exam       | 40%    | TBD               | Exam       |
-
-
-## Grading Scheme B
-
-| Item             | Weight | Due date(s)       | Category   |
-|------------------|--------|-------------------|------------|
-| Learning Logs    | 5%     | TBD               | Homework   |
-| Class Activities | 10%    | TBD               | Class Work |
-| Labs             | 10%    | Thursdays at noon | Homework   |
-| Project          | 15%    | TBD               |            |
-| Tests            | 60%    | \~ Bi-weekly      | Exam       |
-| Final Exam       | 0%    | TBD               | Exam       |
-
-<!--
-There will be 6 tests in this course in an (approximately) bi-weekly schedule.
-
-For each of the tests, there will be a bonus test exactly one week later and the better score of the Test-Bonus Test pair will be taken. 
--->
-
+| Learning Logs    | 5%     | Fridays at 6 PM   | Homework   |
+| Class Activities | 5%     | After class       | Class Work |
+| Labs             | 15%    | Fridays at 6 PM   | Homework   |
+| Term Project     | 25%    | TBD               | Project    |
+| Tests            | 50%    | Weekly            | Exam       |
 
 <!-- 
-
-## Original Scheme
+## Parsa's Grading Scheme
 
 Clickers: 2
 Labs: 10
