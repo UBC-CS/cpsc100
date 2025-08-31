@@ -29,13 +29,13 @@ Things may change depending on many factors so this is subject to change.
 | 5    | Sep 29  | Data Representation        | Lab 4  | T4   | Prog 1, Prog 2, Prog 3, Prog 4 |
 | 6    | Oct 6   | Internet and HCI           | Lab 5  | T5   | Rep 1, Rep 2, Rep 3            |
 | 7    | Oct 13  | Catch-up Week              | -      | -    | -                              |
-| 8    | Oct 20  | Artificial Intelligence    | Lab 6  | T6   | I1, I2, I3                     |
+| 8    | Oct 20  | Artificial Intelligence    | Lab 6  | T6   | Int 1, Int 2, HCI              |
 | 9    | Oct 27  | Artificial Intelligence    | Lab 7  | T7   | AI1, AI2, AI3                  |
 | 10   | Nov 3   | Data Mining                | Lab 8  | T8   | AI4, AI5, AI6                  |
 | 11   | Nov 10  | Fall reading break         | -      | -    |                                |
-| 12   | Nov 17  | Data Provenance            | Lab 9  | T9   | Min 1, Min 2, Min 3            |
-| 13   | Nov 24  | Data Visualization         | Lab 10 | T10  | D1, D2, D3                     |
-| 14   | Dec 1   | Final Projects             | -      | T11  | V1, V2, V3                     |
+| 12   | Nov 17  | Data Provenance            | Lab 9  | T9   | DMin 1, DMin 2, DMin 3         |
+| 13   | Nov 24  | Data Visualization         | Lab 10 | T10  | DPro 1, DPro 2, DPro 3         |
+| 14   | Dec 1   | Final Projects             | -      | T11  | Viz 1, Viz 2, Viz 3            |
 
 
 [W1]     1B, 1C     - --------, Intro 1, Markdown
@@ -49,7 +49,7 @@ Things may change depending on many factors so this is subject to change.
 [W9]  9A, 9B, 9C     - AI4, AI5, AI6
 [W10] 10A, 10B, 10C  - Min 1, Min 2, Min 3        +
 [W11]                  11C - READING WEEK
-[W12] 12A, 12B, 12C  - Data storage, Data privacy, Data Provenance                    +
+[W12] 12A, 12B, 12C  - DPro1, DPro2, DPro3                    +
 [W13] 13A, 13B, 13C  -  V1, V2, V3                +
 [W14] 14A, 14B, 14C  - HCI & Review                   +
 

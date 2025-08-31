@@ -24,7 +24,7 @@ Don't be shy or embarassed to use these health services, and if the first one do
 
 ### What should I do if I need accommodations to be successful in this course?
 
-Please see [](page-accommodations)
+Please see [](page_Accommodations)
 
 <!--
 ### Compassion
