@@ -18,6 +18,27 @@ Things may change depending on many factors so this is subject to change.
 | 13   | Nov 24  | Data Visualization         | LL10 | Lab 10 |         | T10  |
 | 14   | Dec 1   | Final Projects             | LL11 | -      | P5      | T11  |
 
+<!-- January 2026
+
+| Week | Week of | Topic                      | LL   | Lab    | Project | Test |
+|------|---------|----------------------------|------|--------|---------|------|
+| 1    | Jan 5   | Introductions              | LL0  | Lab 0  |         | -    |
+| 2    | Jan 12  | Algorithms and Using AI    | LL1  | Lab 1  |         | T1   |
+| 3    | Jan 19  | Algorithms and Programming | LL2  | Lab 2  |         | T2   |
+| 4    | Jan 26  | Programming                | LL3  | Lab 3  | P1      | T3   |
+| 5    | Feb 2   | Data Representation        | LL4  | Lab 4  |         | T4   |
+| 6    | Feb 9   | Internet and HCI           | LL5  | Lab 5  | P2      | T5   |
+| 7    | Feb 16  | Catch-up Week              | -    | -      |         | -    |
+| 8    | Feb 23  | Artificial Intelligence    | LL06 | Lab 6  |         | T6   |
+| 9    | Mar 2   | Artificial Intelligence    | LL07 | Lab 7  | P3      | T7   |
+| 10   | Mar 9   | Data Mining                | LL08 | Lab 8  |         | T8   |
+| 11   | Mar 16  | Fall reading break         | -    | -      |         | -    |
+| 12   | Mar 23  | Data Provenance            | LL09 | Lab 9  | P4      | T9   |
+| 13   | Mar 30  | Data Visualization         | LL10 | Lab 10 |         | T10  |
+| 14   | Apr 6   | Final Projects             | LL11 | -      | P5      | T11  |
+
+-->
+
 <!-- ## Organizing Notes
 
 | Week | Week of | Topic                      | Lab    | Test | Test Content                   |

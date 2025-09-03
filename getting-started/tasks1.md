@@ -7,8 +7,8 @@ I've split these tasks up into several chunks so it's a bit more manageable.
 ```{include} bits/03_canvas_login.md
 ```
 
-```{include} bits/04_github.md
+```{include} bits/04_prairielearn.md
 ```
 
-```{include} bits/06_course_survey.md
+```{include} bits/08_join_ed_discussion.md
 ```

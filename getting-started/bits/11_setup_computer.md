@@ -1,4 +1,4 @@
-```{dropdown} 3. Start setting up your computer
+```{dropdown} 3. Set up your computer
     :class-container: sd-shadow-lg
     :color: primary
 

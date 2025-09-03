@@ -1,13 +1,11 @@
 The grading scheme for this course is:
 
-
-## Grading Scheme A
+## Grading Scheme
 
 | Item             | Weight | Due date(s)       | Category   |
 |------------------|--------|-------------------|------------|
-| Learning Logs    | 5%     | Fridays at 6 PM   | Homework   |
-| Class Activities | 5%     | After class       | Class Work |
-| Labs             | 15%    | Fridays at 6 PM   | Homework   |
+| Learning Logs    | 7%     | Fridays at 6 PM   | Homework   |
+| Labs             | 18%    | Fridays at 6 PM   | Homework   |
 | Term Project     | 25%    | TBD               | Project    |
 | Tests            | 50%    | Weekly            | Exam       |
 

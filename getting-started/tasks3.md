@@ -9,3 +9,8 @@ I've split these tasks up into several chunks so it's a bit more manageable.
 
 ```{include} bits/13_first_learninglog.md
 ```
+
+<!-- 
+```{include} bits/11_setup_computer.md
+```
+-->

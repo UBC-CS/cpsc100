@@ -1,7 +1,6 @@
-This course will be a LOT of fun, you'll get lots of practice doing a lot of Python, and you'll learn some cool things.
-
-By the end of the course, you'll (hopefully) feel super comfortable with algorithms and programming.
-Strap in, it will be a wild ride!!
+This course will be a LOT of fun, you'll get lots of practice learning how to solve a whole bunch of different problems in our society.
+We'll go through several categories of computational thinking skills including decomposition, pattern recognition, abstraction, modelling and simulation, algorithms, and evaluation.
+Many of the examples and contexts we'll tackle are very topical and very much apply to the real world including artificial intelligence and algorithmic ethics.
 
 <!-- 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.

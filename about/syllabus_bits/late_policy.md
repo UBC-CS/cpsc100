@@ -19,14 +19,13 @@ For longer term absences (a week or more), please contact the instructor to disc
 If ill health is an issue, students are encouraged to seek attention from a health professional.  UBC's [Student Health and Wellbeing website](https://students.ubc.ca/health/) has links to many different resources.
 
 ```{tip}
-Don't be shy or embarassed to use these health services, and if the first one doesn't work for you, try another!
+Don't be shy or embarrassed to use these health services, and if the first one doesn't work for you, try another!
 ```
 
 ### What should I do if I need accommodations to be successful in this course?
 
 Please see [](page_Accommodations)
 
-<!--
 ### Compassion
 
 Overall, my philosophy is that I think we could all use some extra compassion and humanity wherever and whenever it's possible.
@@ -37,4 +36,3 @@ You will *never* owe me an explanation about your physical health, mental health
 I will not judge you, nor think any less of you.
 I will do everything in my power to work out something that is both reasonable and fair. 
 This, I promise!
--->

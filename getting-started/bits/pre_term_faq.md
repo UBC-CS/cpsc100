@@ -104,9 +104,12 @@ It would be helpful if you had access to a computing device as we'll be conducti
     :color: primary
     :name: recorded-lectures
 
-Lectures may be recorded and will be posted if they are - mostly for students that miss the class and want to catch up on missed announcements.
+<!-- Lectures may be recorded and will be posted if they are - mostly for students that miss the class and want to catch up on missed announcements. -->
 
-In general, I do not think re-watching lectures is a good way to study (even at 1.5x speed).
+Unfortunately, lectures in {{ COURSE_CODE }} will *not* be recorded this term - I understand that this will result in the course being less accessible for some of you (I'm really sorry), but in my experience, recording lectures makes students really hesitant to speak up in class and this prevents rich discussions.
+I would like to build an safe and inclusive community in this classroom, and part of that is to keep what happens in class within the class.
+
+In general, I also happen to think that re-watching lectures is NOT a good way to study (even at 1.5x speed).
 It will be far more beneficial for you to try doing more problems and come to student hours or get extra help on the forum!
 ```
 
@@ -152,7 +155,8 @@ If you come in with good work ethic, the right attitude, and sufficient motivati
     :color: primary
     :name: attendance
 
-- Attendance is **highly recommended** in lectures, but not required.
-- Lectures may be recorded and if they are, will be made available via Canvas.
-- Note that there are several passing requirements in this course - it's highly unlikely you'll be able to pass the course if you skip the lectures!
+Attendance is **highly recommended** in lectures, but not required.
+
+I understand students will have to miss class some days, that's fine! Life happens - it won't be the end of the world if you have to miss a class or two.
+**I do not require students to come to class through participation points or lost marks - you should come to class because you want to learn, and because you think it will be a good use of your time!**
 ```

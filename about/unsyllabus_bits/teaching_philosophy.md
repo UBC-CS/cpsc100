@@ -9,7 +9,7 @@ Here are the key principles I intend to apply in this class:
 ### How will this course be taught ?
 
 This course will be taught as a [Blended Learning classroom](https://en.wikipedia.org/wiki/Blended_learning) where some elements of a [flipped classroom](https://www.youtube-nocookie.com/embed/BCIxikOq73Q) will be mixed with a more traditional coding classroom with live demos, clicker questions, and worksheets.
-Briefly, this requires students to watch videos and engage with the assigned reading prior to the classroom meeting (knowledge transfer).
+Briefly, this requires students to complete some readings, look at lecture slides or watch videos and engage with the assigned reading **before the classroom meeting** (knowledge transfer).
 During the class meeting, the instructor guides students through clicker questions, worksheet problems, and other activities to help the students make sense of the material (sense-making).
 See {numref}`masterymodel1` for a mental model of how learning works {cite}`Ambrose2010`.
 
