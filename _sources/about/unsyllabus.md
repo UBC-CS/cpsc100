@@ -2,6 +2,8 @@
 
 ![](../images/UBC_CS.png)
 
+
+<!--
 ```{figure} ../images/construction.jpeg
 ---
 width: 750px
@@ -9,7 +11,7 @@ name: Under Construction.
 ---
 This course website is currently under construction.  The *Unsyllabus* and *About this course* sections have been completed, but remaining sections (including lecture pages) is still being editted. [Photo by Mabel Amber from Pexels](https://www.pexels.com/photo/traffic-red-blue-sign-117602/). 
 ```
- -->
+-->
 
 
 (unsyllabus)=
@@ -55,13 +57,10 @@ All course content, references, and resources provided in this course are free a
 ```{include} syllabus_bits/late_policy.md
 ```
 
-
-<!--
 ## Learning Intentions
 (learning-intentions)=
 ```{include} syllabus_bits/course_LOs.md
-``` 
--->
+```
 
 <div class="page_break"> </div>
 
@@ -113,9 +112,6 @@ In this course, we will be using the following required learning technologies (p
 
 - [Canvas](https://faculty.canvas.ubc.ca/canvas-privacy/).
 - [PrairieLearn](https://www.prairielearn.com/legal/privacy).
-- [Piazza](https://piazza.com/legal/privacy).  See also [UBC's Piazza Guide](https://lthub.ubc.ca/guides/piazza-instructor-guide/)
-- [GitHub](https://docs.github.com/en/github/site-policy/github-privacy-statement).
-<!--
 - [Ed Discussion](https://edstem.org/privacy)
 
 ```{include} unsyllabus_bits/tools/canvas.md
@@ -124,10 +120,15 @@ In this course, we will be using the following required learning technologies (p
 ```{include} unsyllabus_bits/tools/ed_discussion.md
 ```
 
-```{include} unsyllabus_bits/tools/github.md
+```{include} unsyllabus_bits/tools/prairielearn.md
 ```
 
-```{include} unsyllabus_bits/tools/prairielearn.md
+<!--
+
+- [Piazza](https://piazza.com/legal/privacy).  See also [UBC's Piazza Guide](https://lthub.ubc.ca/guides/piazza-instructor-guide/)
+- [GitHub](https://docs.github.com/en/github/site-policy/github-privacy-statement).
+- 
+```{include} unsyllabus_bits/tools/github.md
 ```
 
 - [Sli.do](https://www.slido.com/terms?experience_id=1&utm_campaign=_eid-007-control&utm_source=www.slido.com-_ab#privacy-policy)
@@ -137,6 +138,7 @@ In this course, we will be using the following required learning technologies (p
 
 ```{include} unsyllabus_bits/tools/gradescope.md
 ```
+-->
 
 ### What type of information will I collect about you in this course?
 
@@ -150,7 +152,6 @@ In this course, we will be using the following required learning technologies (p
 
 ```{include} unsyllabus_bits/teaching_philosophy.md
 ```
--->
 
 (academic-integrity)=
 ## Academic Integrity
@@ -160,13 +161,11 @@ In this course, we will be using the following required learning technologies (p
 
 <div class="page_break"> </div>
 
-<!--
 (withdrawing)=
 ## What should I think about if I'm considering withdrawing from the course?
 
 ```{include} unsyllabus_bits/withdrawing.md
 ```
--->
 
 (acknowledgements)=
 ## Acknowledgements
