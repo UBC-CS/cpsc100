@@ -6,7 +6,7 @@ parts:
   - file: about/syllabus
   - file: about/course_schedule
   - file: about/accommodations
-  - file: about/doing_well
+  - file: about/doing_well_cpsc
   - file: about/faq
 
 - caption: Part 1 - Computational Thinking
