@@ -13,11 +13,10 @@ A few other notes:
   - By email to the instructor if your message contains personal information; for example, your CfA letter or a request for concession.
 - Any student may visit the student hour for any member of the teaching team (TA or instructor)! In other words, you can go to the student hour of ANY TA, not just the one whose lab/tutorial you are registered in.
 
-<!--
+
 ### Why should I take {{ COURSE_CODE }}?
 
 ```{include} syllabus_bits/course_teaser.md
 ```
--->
 
 <div class="page_break"> </div>
