@@ -8,7 +8,7 @@ We will leave the website open even after the course is over for a reasonable nu
 <iframe src="../../Lecture2A-Algorithms1.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](https://github.com/ubc-cs/cpsc100/raw/main/files/Lecture2A-Algorithms1.pdf)
+<a href="../../Lecture2A-Algorithms1.pdf">Download the Slides from today></a>.
 
 ## Acknowledgements
 
