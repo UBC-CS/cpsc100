@@ -8,7 +8,7 @@ We will leave the website open even after the course is over for a reasonable nu
 <iframe src="../../Lecture1C-Markdown_updated.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](https://github.com/ubc-cs/cpsc100/raw/main/files/Lecture1C-Markdown_updated.pdf)
+<a href="../../Lecture1C-Markdown_updated.pdf">Download the Slides from today></a>.
 
 ## Acknowledgements
 
