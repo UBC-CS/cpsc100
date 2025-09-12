@@ -64,9 +64,9 @@ All course content, references, and resources provided in this course are free a
 
 <div class="page_break"> </div>
 
+(schedule)=
 ## Schedule
 
-(schedule)=
 ```{include} syllabus_bits/schedule.md
 ```
 
