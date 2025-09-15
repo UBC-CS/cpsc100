@@ -22,6 +22,12 @@ parts:
       - file: notes/week02/class2A
       - file: notes/week02/class2B
       - file: notes/week02/class2C
+  - file: notes/week03/week03_summary
+    title: Week 3 - Algorithms & Programming
+    sections:
+      - file: notes/week03/class3A
+      # - file: notes/week03/class3B
+      # - file: notes/week03/class3C
 #       - file: notes/week02/videos
 #       - file: notes/week02/homework
 #       - file: notes/week02/lecture

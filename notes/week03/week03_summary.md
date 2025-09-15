@@ -2,4 +2,4 @@
 Week 3
 =======================
 
-This week we be learning about Python classes, knitting, the `dataclass`, and other fun things!
+This week we will be continuing our discussion on Algorithms, and then starting some Programming!

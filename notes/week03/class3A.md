@@ -1,19 +1,15 @@
 # Class Meeting 3A
 
-There were no slides for today's lecture.  
-
-We completed the Python review in the [Class Activity 2B](https://us.prairielearn.com/pl/course_instance/172874/assessment/2495513) Jupyter notebook, and then explored Python a little more in the [Class Activity 3A](https://us.prairielearn.com/pl/course_instance/172874/assessment/2495514) VSCode workspace.
+Below are the slides from today's class embedded.
+Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
+We will leave the website open even after the course is over for a reasonable number of years.
 
 <div>
-<iframe src="../../LecNoSlides.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="../../Lecture3A-Algorithms3.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-<!--
-[Download the Slides from today](https://github.com/ubc-cs/cpsc203/raw/main/files/Lec05efficiency.pdf)
+<a href="../../Lecture3A-Algorithms3.pdf">Download the Slides from today></a>.
 
-## Important links for today:
+## Acknowledgements
 
-- [Canvas](https://canvas.ubc.ca/courses/130127)
-- [PrairieLearn](https://canvas.ubc.ca/courses/130127/external_tools/48751)
-- [Markdown Tutorial](https://commonmark.org/help/tutorial/)
--->
+Slides for {{ COURSE_CODE }} were developed and created in collaboration with [Dr. Kemi Ola](https://www.cs.ubc.ca/people/kemi-ola), [Dr. Rachel Pottinger](https://www.cs.ubc.ca/people/rachel-pottinger), [Jessica Wong](https://www.cs.ubc.ca/people/jessica-wong), [Parsa Rajabi](https://parsa-rajabi.github.io), and then adapted by [Dr. Firas Moosvi](https://firas.moosvi.com).
