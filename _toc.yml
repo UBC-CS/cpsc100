@@ -27,7 +27,7 @@ parts:
     sections:
       - file: notes/week03/class3A
       - file: notes/week03/class3B
-      # - file: notes/week03/class3C
+      - file: notes/week03/class3C
 #       - file: notes/week02/videos
 #       - file: notes/week02/homework
 #       - file: notes/week02/lecture
