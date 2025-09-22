@@ -28,6 +28,11 @@ parts:
       - file: notes/week03/class3A
       - file: notes/week03/class3B
       - file: notes/week03/class3C
+  - file: notes/week04/week04_summary
+    title: Week 4 - Programming
+    sections:
+      - file: notes/week04/class4A
+
 #       - file: notes/week02/videos
 #       - file: notes/week02/homework
 #       - file: notes/week02/lecture
