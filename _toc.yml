@@ -33,6 +33,7 @@ parts:
     sections:
       - file: notes/week04/class4A
       - file: notes/week04/class4B
+      - file: notes/week04/class4C
 #       - file: notes/week02/videos
 #       - file: notes/week02/homework
 #       - file: notes/week02/lecture
