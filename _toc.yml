@@ -38,7 +38,7 @@ parts:
     title: Week 4 - Programming
     sections:
       - file: notes/week05/class5A
-      # - file: notes/week05/class4B
+      - file: notes/week05/class5B
       # - file: notes/week05/class4C
 #       - file: notes/week02/videos
 #       - file: notes/week02/homework
