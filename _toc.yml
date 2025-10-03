@@ -35,11 +35,20 @@ parts:
       - file: notes/week04/class4B
       - file: notes/week04/class4C
   - file: notes/week05/week05_summary
-    title: Week 4 - Programming
+    title: Week 5 - Data Representation
     sections:
       - file: notes/week05/class5A
       - file: notes/week05/class5B
-      # - file: notes/week05/class4C
+      - file: notes/week05/class5C
+
+
+
+- caption: Course Project
+  maxdepth: 2
+  chapters:
+  - file: notes/project/introduction
+    title: Introduction to the Project
+
 #       - file: notes/week02/videos
 #       - file: notes/week02/homework
 #       - file: notes/week02/lecture
