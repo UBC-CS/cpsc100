@@ -40,8 +40,10 @@ parts:
       - file: notes/week05/class5A
       - file: notes/week05/class5B
       - file: notes/week05/class5C
-
-
+  - file: notes/week06/week06_summary
+    title: Week 6 - HCI & Internet
+    sections:
+      - file: notes/week06/class6A
 
 - caption: Course Project
   maxdepth: 2
