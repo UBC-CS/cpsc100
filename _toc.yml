@@ -44,6 +44,7 @@ parts:
     title: Week 6 - HCI & Internet
     sections:
       - file: notes/week06/class6A
+      - file: notes/week06/class6B
 
 - caption: Course Project
   maxdepth: 2
