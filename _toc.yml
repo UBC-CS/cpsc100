@@ -45,6 +45,7 @@ parts:
     sections:
       - file: notes/week06/class6A
       - file: notes/week06/class6B
+      - file: notes/week06/class6C
 
 - caption: Course Project
   maxdepth: 2
