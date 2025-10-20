@@ -2,4 +2,4 @@
 Week 8 Summary
 =======================
 
-This week we will talk about some new Data Structures and formalize a language for all the data structures we've seen (and will see)!
+This week we will talk about how the internet works and how AI has changed the world!
