@@ -50,7 +50,8 @@ parts:
     title: Week 8 - Internet and AI
     sections:
       - file: notes/week08/class8A
-
+      - file: notes/week08/class8B
+      
 - caption: Course Project
   maxdepth: 2
   chapters:
