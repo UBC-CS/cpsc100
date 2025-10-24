@@ -51,7 +51,7 @@ parts:
     sections:
       - file: notes/week08/class8A
       - file: notes/week08/class8B
-      
+      - file: notes/week08/class8C
 - caption: Course Project
   maxdepth: 2
   chapters:
