@@ -100,9 +100,11 @@ sphinx:
       GRACE_PERIOD: "48 hours"
 
       # TA Names
-      TA1: "TBD"
+      TA4: "Victoria"
+      TA4pronounce: "vik-TOR-ee-uh"
+      TA2: "Sam"
+      TA2pronounce: "SAM"
+      TA3: "Parsa"
+      TA3pronounce: "par-SAH"
+      TA1: "Yuki"
       TA1pronounce: "TBD"
-      TA2: "TBD"
-      TA2pronounce: "TBD"
-      TA3: "TBD"
-      TA3pronounce: "TBD"
