@@ -1,26 +1,15 @@
 # Class Meeting 9B
 
-Today we will be discussing a new data structure: Graphs.  We are using the slides from Class Meeting 9A, plus the links below.
+Below are the slides from today's class embedded.
+Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
+We will leave the website open even after the course is over for a reasonable number of years.
 
 <div>
-<iframe src="../../LecNoSlides.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="../../Lecture9B-AI5.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-## Topics for today's lecture
+<a href="../../Lecture9B-AI5.pdf">Download the Slides from today></a>.
 
-- What does it mean to be a "neighbour" in our Voronoi blobification algorithm?
-  - Effect of different choices on the meaning of distance.
-  - Can we replicate our traditional (Euclidean) meaning of distance?
-- Intro to [graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)).
-  - Some graph vocabulary.
-  - Some examples of graphs.
-  - Constructing a template for processing graphs with stacks / queues.
+## Acknowledgements
 
-## Links for today:
-
-- [Introduction to Graphs](https://www.geeksforgeeks.org/introduction-to-graphs-data-structure-and-algorithm-tutorials/?ref=gcse)
-
-
-## Logistics
-
-Nothing to clone for today.
+Slides for {{ COURSE_CODE }} were developed and created in collaboration with [Dr. Kemi Ola](https://www.cs.ubc.ca/people/kemi-ola), [Dr. Rachel Pottinger](https://www.cs.ubc.ca/people/rachel-pottinger), [Jessica Wong](https://www.cs.ubc.ca/people/jessica-wong), [Parsa Rajabi](https://parsa-rajabi.github.io), and then adapted by [Dr. Firas Moosvi](https://firas.moosvi.com).

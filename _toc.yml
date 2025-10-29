@@ -52,6 +52,10 @@ parts:
       - file: notes/week08/class8A
       - file: notes/week08/class8B
       - file: notes/week08/class8C
+  - file: notes/week09/week09_summary
+    title: Week 9 - AI
+    sections:
+      - file: notes/week09/class9B
 - caption: Course Project
   maxdepth: 2
   chapters:

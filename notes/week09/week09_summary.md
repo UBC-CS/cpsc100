@@ -2,4 +2,4 @@
 Week 9 Summary
 =======================
 
-This week we will finish up with queues, and then move on to Graphs as a new data structure.
+This week we will continue talking about how the internet works and how AI has changed the world!
