@@ -12,7 +12,7 @@ There are five deliverables for the project, here's a high-level summary of the 
 | Deliverable                                         | Weight | Due Date |
 |-----------------------------------------------------|--------|----------|
 | Milestone 1 - Group Formation and Teamwork Contract | 2%     | -        |
-| Milestone 2 - Project Proposal                      | 5%     | -        |
+| Milestone 2 - Project Proposal                      | 5%     | Nov        |
 | Milestone 3 - Individual Contributions              | 8%     | -        |
 | Milestone 4 - Group Contribution                    | 8%     | -        |
 | Milestone 5 - Final Presentation & Peer Review      | 2%     | -        |
@@ -36,12 +36,12 @@ At the discretion of the teaching team, individual students may receive a lower 
 - [M3: Infographic](#m3-infographic)
 - [Resources](#resources) -->
 
-## Project Topics
+## Project Categories
 
-Your project topic should fit into one of the five broad categories below.
-There is still a lot of freedom for you to choose interesting topics within these categories, but you must make sure your chosen topic fits into exactly **one of these categories**.
-This also means that your topic of exploration should be focused on only one of these categories so you can do a deep and meaningful exploration.
-Some of these topics may be covered in class and if they are, you are **responsible** for finding supplementary content outside of the class material for your project.
+Your project should fit into one of the five broad categories below.
+There is still a lot of freedom for you to choose interesting things within these categories, but you must make sure it fits into exactly **one of these categories**.
+This also means that your area of exploration should be focused on only one of these categories so you can do a deep and meaningful exploration (and link it back to the course topics).
+Some of the topics may be covered in class and if they are, you are **responsible** for finding supplementary content outside of the class material for your project.
 
 ### A. Generative AI and student learning
 
@@ -67,6 +67,36 @@ Some of these topics may be covered in class and if they are, you are **responsi
 - Digital Identity Theft: How stolen online identities are used to manipulate social circles for financial or personal gain.
 - Phishing Scams: How social engineering exploits relationships and trust online to commit fraud
 - Data Privacy: How breaches in data security can lead to the exploitation of personal information and relationships -->
+
+## Project Contract
+
+The table below shows the detailed requirements for each of the contracted grades:
+
+![](project_contract_table.png)
+
+The next section has the full list of course topics you can choose from for the "Topics Covered" section.
+
+## Course Topics
+
+- Computational Thinking
+- Algorithms
+- Computer Programming
+- Data Representation
+- Human Computer Interaction
+- Internet
+- Artificial Intelligence
+- Natural Language Processing & Large Language Models (LLMs)
+- Ethics and Computer Science
+- Social implications of Computing
+- Algorithmic Bias
+- Data Mining
+- Data Storage
+- Data Privacy
+- Data Security
+- Data Visualization
+- **Other topics may be possible after discussion with the Instructor**
+
+Note that we are looking for **meaningful** and **substantial** exploration of the project category you chose (1 of 5) linking back to the course topics you choose from the list above (based on your contracted grade).
 
 ## Logistics
 
