@@ -121,31 +121,33 @@ In this milestone, students will put together a project proposal of their area o
 
 Students will: 
 
-1. Choose a topic that fits into one of the five broad themes (specified above),
+1. Choose an area of inquiry that fits into one of the five broad themes (specified above),
 
-2. formulate specific questions to guide their exploration of the selected topic. 
+2. Formulate specific questions to guide their exploration of the selected topic. 
 
-3. identify at least three substantial online sources that will provide data or information relevant to their topic.
+3. Identify at least three substantial online sources that will provide data or information relevant to their topic.
 
 ### Research and Inquiry (Milestone 3)
 
-This milestone involves a detailed presentation of the articles they have summarized and data they have found related to their specific questions.
+This milestone involves a detailed presentation of the articles they have summarized and data they have found related to their specific questions intended for fellow students in the CPSC 100 class..
 
 Students will:
 
-1. delve into their research, summarizing the findings and examining how they address the questions they were interested in.
+1. Delve into their research, summarizing the findings and examining how they address the questions they were interested in.
 
 2. Create an outline for a digital artifact that will visually represent their findings.
 
 ### Creating a Digital Artifact (Milestone 4)
 
-Task: Students will design an infographic based on their research and analysis. This infographic should effectively summarize two main themes or findings from their research, presenting the information visually engaging and informative.
+Students will:
+
+design a digital artifact based on their research and analysis. 
+
+This digital artifact should effectively summarize their main themes/findings from their research, presenting the information visually engaging and informative intended for fellow students in the CPSC 100 class.
 
 ### Finalizing submission and feedback (Milestone 5)
 
-In this milestone, students will put the finishing 
-
-give structured feedback to other groups about their digital artifact, will receive 
+In this milestone, students will put the finishing touches on their digital artifact and give structured feedback to other groups about their digital artifact.
 
 <!-- 
 ---
