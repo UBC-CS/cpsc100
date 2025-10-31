@@ -56,6 +56,7 @@ parts:
     title: Week 9 - AI
     sections:
       - file: notes/week09/class9B
+      - file: notes/week09/class9C
 - caption: Course Project
   maxdepth: 2
   chapters:
