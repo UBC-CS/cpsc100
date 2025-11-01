@@ -1,4 +1,4 @@
-# Class Meeting 8A
+# Class Meeting 8B
 
 Below are the slides from today's class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
