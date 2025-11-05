@@ -57,6 +57,11 @@ parts:
     sections:
       - file: notes/week09/class9B
       - file: notes/week09/class9C
+  - file: notes/week10/week10_summary
+    title: Week 10 - Data Mining
+    sections:
+      - file: notes/week10/class10A
+      - file: notes/week10/class10B
 - caption: Course Project
   maxdepth: 2
   chapters:
