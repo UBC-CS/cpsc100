@@ -1,4 +1,4 @@
-# Class Meeting 10A
+# Class Meeting 10B
 
 Below are the slides from today's class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
