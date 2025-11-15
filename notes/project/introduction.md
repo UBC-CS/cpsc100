@@ -9,13 +9,13 @@ The project provides a structured format for students to engage deeply with the 
 
 There are five deliverables for the project, here's a high-level summary of the deliverables:
 
-| Deliverable                                         | Weight | Due Date |
-|-----------------------------------------------------|--------|----------|
-| Milestone 1 - Group Formation and Teamwork Contract | 2%     | -        |
-| Milestone 2 - Project Proposal                      | 5%     | Nov        |
-| Milestone 3 - Individual Contributions              | 8%     | -        |
-| Milestone 4 - Group Contribution                    | 8%     | -        |
-| Milestone 5 - Final Presentation & Peer Review      | 2%     | -        |
+| Deliverable                                            | Weight | Due Date |
+|--------------------------------------------------------|--------|----------|
+| Milestone 1 - Group Formation and Teamwork Contract    | 2%     | Oct 14   |
+| Milestone 2 - Project Proposal                         | 5%     | Nov 3    |
+| Milestone 3 - Project Report (Individual Contribution) | 8%     | Nov 19   |
+| Milestone 4 - Digital Artifact (Group Contribution)    | 8%     | Nov 28   |
+| Milestone 5 - Final Presentation & Peer Review         | 2%     | Dec 5    |
 
 Milestone 3 will be submitted individually; all other deliverables will be evaluated as a group (one submission and score for all group members).
 
@@ -141,7 +141,7 @@ Students will:
 
 Students will:
 
-design a digital artifact based on their research and analysis. 
+1. Design a digital artifact based on their research and analysis.
 
 This digital artifact should effectively summarize their main themes/findings from their research, presenting the information visually engaging and informative intended for fellow students in the CPSC 100 class.
 
