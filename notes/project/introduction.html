@@ -1,0 +1,988 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Project &#8212; CPSC 100</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/pdf_print.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/extra.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/custom_layouts.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/clipboard.min.js"></script>
+    <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../../_static/togglebutton.js"></script>
+    <script kind="utterances">
+
+    var commentsRunWhenDOMLoaded = cb => {
+    if (document.readyState != 'loading') {
+        cb()
+    } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', cb)
+    } else {
+        document.attachEvent('onreadystatechange', function() {
+        if (document.readyState == 'complete') cb()
+        })
+    }
+}
+
+var addUtterances = () => {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://utteranc.es/client.js";
+    script.async = "async";
+
+    script.setAttribute("repo", "UBC-CS/cpsc100");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "💬 comment");
+    script.setAttribute("crossorigin", "anonymous");
+
+    sections = document.querySelectorAll("div.section");
+    if (sections !== null) {
+        section = sections[sections.length-1];
+        section.appendChild(script);
+    }
+}
+commentsRunWhenDOMLoaded(addUtterances);
+</script>
+    <script src="../../_static/plausible_cpsc203.js"></script>
+    <script src="../../_static/save_state.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'notes/project/introduction';</script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="prev" title="Class Meeting 10C" href="../week10/class10C.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../about/unsyllabus.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../../_static/logo.jpg" class="logo__image only-light" alt="CPSC 100 - Home"/>
+    <script>document.write(`<img src="../../_static/logo.jpg" class="logo__image only-dark" alt="CPSC 100 - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../../about/unsyllabus.html">
+                    Unsyllabus
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">About this course</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../../about/syllabus.html">Course Syllabus (Official)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/course_schedule.html">Course Schedule</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/accommodations.html">Accommodations</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/faq.html">Frequently Asked Questions</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Part 1 - Computational Thinking</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../week01/week01_summary.html">Week 1 - Introductions!</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../week01/class1B.html">Class Meeting 1B</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week01/class1C.html">Class Meeting 1C</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../week02/week02_summary.html">Week 2 - Algorithms</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../week02/class2A.html">Class Meeting 2A</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week02/class2B.html">Class Meeting 2B</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week02/class2C.html">Class Meeting 2C</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../week03/week03_summary.html">Week 3 - Algorithms &amp; Programming</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../week03/class3A.html">Class Meeting 3A</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week03/class3B.html">Class Meeting 3B</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week03/class3C.html">Class Meeting 3C</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../week04/week04_summary.html">Week 4 - Programming</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../week04/class4A.html">Class Meeting 4A</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week04/class4B.html">Class Meeting 4B</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week04/class4C.html">Class Meeting 4C</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../week05/week05_summary.html">Week 5 - Data Representation</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../week05/class5A.html">Class Meeting 5A</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week05/class5B.html">Class Meeting 5B</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week05/class5C.html">Class Meeting 5C</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../week06/week06_summary.html">Week 6 - HCI &amp; Internet</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../week06/class6A.html">Class Meeting 6A</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week06/class6B.html">Class Meeting 6B</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week06/class6C.html">Class Meeting 6C</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../week08/week08_summary.html">Week 8 - Internet and AI</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../week08/class8A.html">Class Meeting 8A</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week08/class8B.html">Class Meeting 8B</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week08/class8C.html">Class Meeting 8C</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../week09/week09_summary.html">Week 9 - AI</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../week09/class9B.html">Class Meeting 9B</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week09/class9C.html">Class Meeting 9C</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../week10/week10_summary.html">Week 10 - Data Mining</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../week10/class10A.html">Class Meeting 10A</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week10/class10B.html">Class Meeting 10B</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../week10/class10C.html">Class Meeting 10C</a></li>
+</ul>
+</details></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Course Project</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Introduction to the Project</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/UBC-CS/cpsc100" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/UBC-CS/cpsc100/edit/main/notes/project/introduction.md" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/UBC-CS/cpsc100/issues/new?title=Issue%20on%20page%20%2Fnotes/project/introduction.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../../_sources/notes/project/introduction.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Project</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#project-categories">Project Categories</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-generative-ai-and-student-learning">A. Generative AI and student learning</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#b-technological-inequality">B. Technological inequality</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#c-algorithmic-bias">C. Algorithmic Bias</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#d-financial-and-environmental-impacts-of-technology">D. Financial and Environmental impacts of technology</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#e-technology-and-crime">E. Technology and crime</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#project-contract">Project Contract</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-topics">Course Topics</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#logistics">Logistics</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#group-formation">Group Formation</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#group-contract-milestone-1">Group Contract (Milestone 1)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#project-proposal-milestone-2">Project Proposal (Milestone 2)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-and-inquiry-milestone-3">Research and Inquiry (Milestone 3)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#creating-a-digital-artifact-milestone-4">Creating a Digital Artifact (Milestone 4)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#finalizing-submission-and-feedback-milestone-5">Finalizing submission and feedback (Milestone 5)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#resources-for-working-in-teams">Resources for working in teams</a></li>
+</ul>
+</li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="project">
+<h1>Project<a class="headerlink" href="#project" title="Permalink to this heading">#</a></h1>
+<p>The CPSC 100 project is a comprehensive assignment divided into five milestones, each focusing on exploring technology’s impact on relationships.
+The project provides a structured format for students to engage deeply with the course material and extend their study of some topics independently.</p>
+<!-- algorithms, programming, data rep, internet, hci, AI, data mining, data provenance, data visualization -->
+<section id="overview">
+<h2>Overview<a class="headerlink" href="#overview" title="Permalink to this heading">#</a></h2>
+<p>There are five deliverables for the project, here’s a high-level summary of the deliverables:</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Deliverable</p></th>
+<th class="head"><p>Weight</p></th>
+<th class="head"><p>Due Date</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Milestone 1 - Group Formation and Teamwork Contract</p></td>
+<td><p>2%</p></td>
+<td><p>Oct 14</p></td>
+</tr>
+<tr class="row-odd"><td><p>Milestone 2 - Project Proposal</p></td>
+<td><p>5%</p></td>
+<td><p>Nov 3</p></td>
+</tr>
+<tr class="row-even"><td><p>Milestone 3 - Project Report (Individual Contribution)</p></td>
+<td><p>8%</p></td>
+<td><p>Nov 19</p></td>
+</tr>
+<tr class="row-odd"><td><p>Milestone 4 - Digital Artifact (Group Contribution)</p></td>
+<td><p>8%</p></td>
+<td><p>Nov 28</p></td>
+</tr>
+<tr class="row-even"><td><p>Milestone 5 - Final Presentation &amp; Peer Review</p></td>
+<td><p>2%</p></td>
+<td><p>Dec 5</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Milestone 3 will be submitted individually; all other deliverables will be evaluated as a group (one submission and score for all group members).</p>
+<p>We have spaced out the deliverables over the term to ensure that students have sufficient knowledge, preparation and time to complete each milestone.</p>
+<p>You will be assessed based on the deliverables as well as your TA mentors’ and team members’ evaluations.
+At the discretion of the teaching team, individual students may receive a lower grade than other members of their group if they were not contributing to the group in an equitable manner.</p>
+<!-- ## Table of Contents
+- [Project Overview](#project-overview)
+- [Exploring the Impact of Computing on Relationships](#exploring-the-impact-of-computing-on-relationships)
+- [Group Size](#group-size)
+- [Assessment + Deadlines](#assessment)
+- [Overview](#overview)
+- [M0: Group Contract](#m0-group-contract)
+- [M1: Proposal](#m1-proposal)
+- [M2: Data Inquiry](#m2-data-inquiry)
+- [M3: Infographic](#m3-infographic)
+- [Resources](#resources) -->
+</section>
+<section id="project-categories">
+<h2>Project Categories<a class="headerlink" href="#project-categories" title="Permalink to this heading">#</a></h2>
+<p>Your project should fit into one of the five broad categories below.
+There is still a lot of freedom for you to choose interesting things within these categories, but you must make sure it fits into exactly <strong>one of these categories</strong>.
+This also means that your area of exploration should be focused on only one of these categories so you can do a deep and meaningful exploration (and link it back to the course topics).
+Some of the topics may be covered in class and if they are, you are <strong>responsible</strong> for finding supplementary content outside of the class material for your project.</p>
+<section id="a-generative-ai-and-student-learning">
+<h3>A. Generative AI and student learning<a class="headerlink" href="#a-generative-ai-and-student-learning" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Details and examples coming soon…</p></li>
+</ul>
+</section>
+<section id="b-technological-inequality">
+<h3>B. Technological inequality<a class="headerlink" href="#b-technological-inequality" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Details and examples coming soon…</p></li>
+</ul>
+</section>
+<section id="c-algorithmic-bias">
+<h3>C. Algorithmic Bias<a class="headerlink" href="#c-algorithmic-bias" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Details and examples coming soon…</p></li>
+</ul>
+</section>
+<section id="d-financial-and-environmental-impacts-of-technology">
+<h3>D. Financial and Environmental impacts of technology<a class="headerlink" href="#d-financial-and-environmental-impacts-of-technology" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Details and examples coming soon…</p></li>
+</ul>
+</section>
+<section id="e-technology-and-crime">
+<h3>E. Technology and crime<a class="headerlink" href="#e-technology-and-crime" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Details and examples coming soon…</p></li>
+</ul>
+<!-- - Deepfakes: The rise of AI-generated fake media and its implications for trust and authenticity in relationships
+- Digital Identity Theft: How stolen online identities are used to manipulate social circles for financial or personal gain.
+- Phishing Scams: How social engineering exploits relationships and trust online to commit fraud
+- Data Privacy: How breaches in data security can lead to the exploitation of personal information and relationships -->
+</section>
+</section>
+<section id="project-contract">
+<h2>Project Contract<a class="headerlink" href="#project-contract" title="Permalink to this heading">#</a></h2>
+<p>The table below shows the detailed requirements for each of the contracted grades:</p>
+<p><img alt="" src="../../_images/project_contract_table.png" /></p>
+<p>The next section has the full list of course topics you can choose from for the “Topics Covered” section.</p>
+</section>
+<section id="course-topics">
+<h2>Course Topics<a class="headerlink" href="#course-topics" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Computational Thinking</p></li>
+<li><p>Algorithms</p></li>
+<li><p>Computer Programming</p></li>
+<li><p>Data Representation</p></li>
+<li><p>Human Computer Interaction</p></li>
+<li><p>Internet</p></li>
+<li><p>Artificial Intelligence</p></li>
+<li><p>Natural Language Processing &amp; Large Language Models (LLMs)</p></li>
+<li><p>Ethics and Computer Science</p></li>
+<li><p>Social implications of Computing</p></li>
+<li><p>Algorithmic Bias</p></li>
+<li><p>Data Mining</p></li>
+<li><p>Data Storage</p></li>
+<li><p>Data Privacy</p></li>
+<li><p>Data Security</p></li>
+<li><p>Data Visualization</p></li>
+<li><p><strong>Other topics may be possible after discussion with the Instructor</strong></p></li>
+</ul>
+<p>Note that we are looking for <strong>meaningful</strong> and <strong>substantial</strong> exploration of the project category you chose (1 of 5) linking back to the course topics you choose from the list above (based on your contracted grade).</p>
+</section>
+<section id="logistics">
+<h2>Logistics<a class="headerlink" href="#logistics" title="Permalink to this heading">#</a></h2>
+<section id="group-formation">
+<h3>Group Formation<a class="headerlink" href="#group-formation" title="Permalink to this heading">#</a></h3>
+<p>Students will work in groups of <strong>three or four</strong> - you are encouraged to make groups in your lab sessions so it’s easier for you to find time to work together, but this is not required.
+The project is designed so that the effort required per student will be the same regardless of whether you’re in a 3-person group, or a 4-person group.
+Submitting work done by anyone outside of your group is NOT permitted and will be considered academic misconduct.
+The work you do should be your own group’s work, but references others (like cited quotations or resources, critical feedback, etc.) is highly encouraged!</p>
+</section>
+<section id="group-contract-milestone-1">
+<h3>Group Contract (Milestone 1)<a class="headerlink" href="#group-contract-milestone-1" title="Permalink to this heading">#</a></h3>
+<p>In this milestone, students will write the “group contract”, decide on working patterns, how to communicate, choosing a Contract Grade, etc…</p>
+<p>Task: Students will develop a group contract that outlines the roles, responsibilities, and expectations for each group member.
+The contract will establish group norms, decision-making processes, communication strategies, and meeting schedules.
+It will also include a high-level overview of the group’s goals and aspirations, working styles, communication preferences, and processes.</p>
+</section>
+<section id="project-proposal-milestone-2">
+<h3>Project Proposal (Milestone 2)<a class="headerlink" href="#project-proposal-milestone-2" title="Permalink to this heading">#</a></h3>
+<p>In this milestone, students will put together a project proposal of their area of inquiry.</p>
+<p>Students will:</p>
+<ol class="arabic simple">
+<li><p>Choose an area of inquiry that fits into one of the five broad themes (specified above),</p></li>
+<li><p>Formulate specific questions to guide their exploration of the selected topic.</p></li>
+<li><p>Identify at least three substantial online sources that will provide data or information relevant to their topic.</p></li>
+</ol>
+</section>
+<section id="research-and-inquiry-milestone-3">
+<h3>Research and Inquiry (Milestone 3)<a class="headerlink" href="#research-and-inquiry-milestone-3" title="Permalink to this heading">#</a></h3>
+<p>This milestone involves a detailed presentation of the articles they have summarized and data they have found related to their specific questions intended for fellow students in the CPSC 100 class…</p>
+<p>Students will:</p>
+<ol class="arabic simple">
+<li><p>Delve into their research, summarizing the findings and examining how they address the questions they were interested in.</p></li>
+<li><p>Create an outline for a digital artifact that will visually represent their findings.</p></li>
+</ol>
+</section>
+<section id="creating-a-digital-artifact-milestone-4">
+<h3>Creating a Digital Artifact (Milestone 4)<a class="headerlink" href="#creating-a-digital-artifact-milestone-4" title="Permalink to this heading">#</a></h3>
+<p>Students will:</p>
+<ol class="arabic simple">
+<li><p>Design a digital artifact based on their research and analysis.</p></li>
+</ol>
+<p>This digital artifact should effectively summarize their main themes/findings from their research, presenting the information visually engaging and informative intended for fellow students in the CPSC 100 class.</p>
+</section>
+<section id="finalizing-submission-and-feedback-milestone-5">
+<h3>Finalizing submission and feedback (Milestone 5)<a class="headerlink" href="#finalizing-submission-and-feedback-milestone-5" title="Permalink to this heading">#</a></h3>
+<p>In this milestone, students will put the finishing touches on their digital artifact and give structured feedback to other groups about their digital artifact.</p>
+<!-- 
+---
+
+## M0: Group Contract 
+
+Define the roles, responsibilities, and expectations for each group member. Establish group norms and decision-making processes. Outline communication strategies and meeting schedules. How will your group operate, which grade bucket are you shooting for, how will you communicate, and how will you resolve conflict? The contract must provide a high-level overview of your goals, communication styles, personality profiles, and processes.
+
+The group charter is NOT for us, it is for you. So, the more detailed the project, the easier it will be when issues arrive later.
+
+### Group Goal and Commitment
+
+Which grade range do you aim for? Choose a performance level for the group. All group members must agree to the same range. If you have six courses and are in your last semester and don't need this course, then make sure you are NOT in a group with individuals who plan to demonstrate mastery of the course content (i.e. "nothing but A+").
+
+- **Time Commitment**: Decide how much time each group member commits to the project over the next weeks.
+Include a plan to track and manage time spent on the project to ensure adherence to the chosen performance level.
+
+--- 
+
+## M1: Proposal
+
+### Motivation
+
+Those who fail to plan, plan to fail. It is important to understand the specifications and the group's objectives clearly.
+
+### Overview
+
+Groups will be required to provide the following:
+
+- **Theme**: One of the themes mentioned above
+- **Title**: The proposed title of your project - You should create a compelling and descriptive title.
+- **Description**: A 50-100 word summary that briefly describes the purpose/goal of your project. It really does not need to be longer than five sentences. It must clearly state what sub-topic you will be exploring.
+- **Questions**: What questions do you hope to answer? You must have at least 2 questions that align with your theme. Formulate 2 to 3 specific research questions related to the theme. (e.g. How much energy is required to create something like ChatGPT 4? What are the implications of using visualizations to encourage climate action?)
+- **Audience**: Identify the target audience for your infographic. Who is your intended audience? Be as specific as possible, as your infographic will target that audience
+Options include, but are not limited to:
+- Teens (ages 13 - 18)
+- Youth (ages 19 - 25)
+- Young Adults (ages 25 - 40)
+- Mature Adults (ages 40 - 65)
+- Public Health Decision Makers
+- Government Policymakers
+- Senior Citizens (ages 65 and above)
+- **News Agencies**: Choose three news agencies from which you expect to gather relevant articles (e.g., CBC, Associated Press, Al Jazeera, Wired).
+- **Data Sources**: Select two platforms where you will search for relevant articles or datasets (e.g., StatCan, OpenData, OurWorldInData).
+
+### Timeline & Next Steps:
+
+What is your process for looking for resources? Remember you are required to find at least 3 articles and 1 dataset that you will use for each question. What process will you use to decide if a resource is legitimate?
+
+- **Task List**: Create a detailed list of tasks required for the next deliverable, including research, data collection, analysis, and initial design ideas for the infographic.
+- **Due Dates**: Assign specific due dates for each task.
+- **Group Responsibilities**: Allocate tasks and due dates to different group members, ensuring a balanced workload.
+- **Details to include**: Include minimum hours for each deliverable.
+
+---
+
+## M2: Data Inquiry
+
+### Motivation
+
+It is crucial to map out the data you will be working with and your project's scope. This intermediary delivery will help narrow your project's focus, ensure you have credible information/data to work with, and help your TAs gauge your progress.
+
+### Requirements
+- For each of your **two** questions, provide the following
+    - **Two** articles from reputable agencies. (wired.com, AP, etc)
+    - **One** government or non-profit dataset or report with visualizations. (e.g. OurWorldInData)
+    - **One** article that offers an opposing or different viewpoint.
+
+### Part 1: Data Gathering Process Assessment
+
+1. **Process Overview**: Describe the method used for data search and selection. Include criteria for choosing data sources.
+2. **Search Details**: Keywords/Phrases: List used for data retrieval. Search Timeline: Indicate dates or timeframes of searches. Platforms: Specify online services or platforms used.
+3. **Source Evaluation**: Discuss the selection or exclusion of certain sources, including the three news agencies and 2 data sites identified in the first deliverable. Address their usefulness.
+
+### Part 2: Assessment of the Data Collected
+
+1. **Source Details**: For each data item, include: Publication date, Author(s), Title, date you last accessed it, URL (should not be behind a paywall; if it is, then you must submit a pdf so TAs can access (e.g. using New York Times))
+2. **Data Quality Veracity Assessment**: Evaluate the credibility and reliability of each source. Address accuracy, completeness, and biases across all data types.
+3. **Data Categorization and Analysis**: Datasets: Quality assessment, relevance, and challenges. News Articles/Media: Quality, reliability, and relevancy evaluation. Summarize critical insights or issues.
+4. **Reflection and Improvement**: Summarize the data collection steps and decisions.
+5. **Discussing Data Deficits**: Identify limitations in datasets, such as incompleteness or bias. Explain the impact of these deficits on project conclusions.
+
+### Part 3: Infographic Outline
+
+For the rough outline of the infographic, students should submit a document that includes the following elements:
+- Title of the Infographic: A provisional title that encapsulates the central theme or message.
+- Introduction: A brief overview or introduction that sets the context for the infographic. (< 100 words)
+- Section Headings: List the planned headings for each section of the infographic. Under each heading, briefly describe what that section will cover. You need at least 3 or 4 section headings with the idea that your final infographic will only have 2 or 3.
+- Data Visualizations: A description of the data visualizations planned (e.g., bar graph, pie chart) and what data each will represent. Indicate where these will be placed in relation to the section headings.
+- Graphic Elements: Outline the types of non-data visual graphics or images they plan to include and their purpose (e.g., to illustrate a point or add visual interest).
+- Feedback Points: List three areas where they would like feedback or have uncertainties. The more specific you are, the better your feedback.
+
+--- 
+## M3: Infographic
+
+### Motivation
+Papers suck. No, but let's be serious: when was the last time you read an article for fun? Communicating your findings in a way that will be accessible to your audience is important.
+
+### Requirements
+
+The infographic submission must include the following:
+
+- Size Specifications: The infographic should be 8.5 by 11 inches, either landscape or portrait orientation.
+- Graphics: Include at least two graphics. These should be distinct from data visualizations.
+- Audience Appropriateness: The design and content should be tailored to the intended audience, such as teens or senior citizens.
+- Data Visualizations: Incorporate at least 2 data visualizations based on the datasets used in the research. These could be visualizations you got from the articles and datasets.
+- Infographic Principles: Adhere to critical principles of infographic design, including Consistency, Simplicity, Suitability, Navigability, and Visibility.
+- References: Include references on the infographic to articles or datasets used.
+- So What Messaging: At the bottom, include a "So What"/"Action" messaging section guiding the audience on the next steps or actions.
+
+
+### Tips in Visual Representation
+- Efficient Use of Space: Ensure the layout is balanced and space is used efficiently.
+- Alignment and Graphics: Graphics should be well-aligned and appropriate for the content and audience.
+- Innovative Data Representation: Go beyond standard visualizations (bar, line, pie, scatter, etc.) and employ thematic or novel data representations. Include more than 2 data visualizations for a comprehensive representation.
+- Tips for Presentation of Ideas
+- Engaging Title: The title should be captivating and informative, tailored to the audience.
+- Effective Storytelling: Convey your research's story or main themes effectively and engagingly.
+- Interesting Results: Ensure that the results presented are intriguing and relevant to the audience.
+
+--- 
+
+## M3: Peer Evaluation
+
+Each student will evaluate their teammates’ contributions to ensure fair participation grading. These evaluations will determine an individual’s participation grade, which factors into the overall project grade. Evaluations must be completed thoughtfully and on time, as missing or poor-quality submissions may result in penalties. The teaching team may adjust grades based on observed engagement. Further submission instructions will follow.
+
+---
+## Resources
+
+Here are some software tools that you may find helpful.
+
+### Writing
+- [Grammarly](https://www.grammarly.com/): Note that we will be grading you, among other things, on your quality of writing. If you struggle with grammar, you may find Grammarly to be helpful. Do review Grammarly's terms and conditions beforehand to check their content ownership laws. Many services will often include a clause stating the service can use submitted work however they wish without seeking additional consent.
+- [Mendeley](https://www.mendeley.com/): supports the management of references
+- [Zotero](https://www.zotero.org/): supports the management of references
+
+### Infographics
+
+These two articles from [Creative Bloq](https://www.creativebloq.com/infographic/tools-2131971) and [Buffer](https://buffer.com/library/infographic-makers/) provides lists of free and paid tools that you can use to create Infographics. We strongly recommend that during the first month your team decides which tool will be used. Please note that whatever tool you use, you should be able to **download an image or pdf of the infographic for submission**. Test the tool before you start creating the infographic to ensure it meets your needs.
+
+ -->
+</section>
+<section id="resources-for-working-in-teams">
+<h3>Resources for working in teams<a class="headerlink" href="#resources-for-working-in-teams" title="Permalink to this heading">#</a></h3>
+<p>Though your TAs and instructors will be available to help you with difficult issues, we encourage you first to try to resolve problems with your partner through mature and active communication.</p>
+<p>In the past, groups have broken down due to poor communication and decision-making strategies. Understanding the benefits of group work and creating a group charter can enhance group interactions.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://learningcommons.ubc.ca/student-toolkits/working-in-groups/communicating-effectively/">Communicating Effectively</a></p></li>
+<li><p><a class="reference external" href="https://learningcommons.ubc.ca/student-toolkits/working-in-groups/">Working in Groups</a></p></li>
+<li><p><a class="reference external" href="https://youtu.be/CIp_kFR5_jc">Working in Groups (Video)</a></p></li>
+<li><p><a class="reference external" href="https://youtu.be/2yvNngrj1jo">Group Work (Video)</a></p></li>
+<li><p><a class="reference external" href="https://youtu.be/Q3dbftkeWPY">Group Work: Can’t We All Just Get Along? (Video)</a></p></li>
+<li><p><a class="reference external" href="https://learningcommons.ubc.ca/how-to-excel-at-teamwork/">How to Excel at Teamwork</a></p></li>
+<li><p><a class="reference external" href="https://learningcommons.ubc.ca/student-toolkits/working-in-groups/group-process/">Group Process</a></p></li>
+<li><p><a class="reference external" href="https://learningcommons.ubc.ca/student-toolkits/working-in-groups/resolving-conflict/">Resolving Conflict</a></p></li>
+<li><p><a class="reference external" href="https://students.ubc.ca/ubclife/navigate-group-projects">How to navigate group projects</a></p></li>
+<li><p><a class="reference external" href="https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/being-part-team/teamwork-skills-being-effective-group-member">Teamwork Skills: Being an Effective Group Member</a></p></li>
+<li><p><a class="reference external" href="http://tinyurl.com/y3lks2oe">Scaffolding student understanding in small-group work: Students’ uptake of teacher support in subsequent small-group interaction. The Journal of the Learning Sciences</a></p></li>
+<li><p><a class="reference external" href="http://tinyurl.com/y6bybyqo">Team dynamics feedback for post-secondary student learning teams: Introducing the “Bare CARE” assessment and report. Assessment and Evaluation in Higher Education</a></p></li>
+<li><p><a class="reference external" href="http://tinyurl.com/y46d7kl9">Rapport building in student online group work. Journal of Pragmatics</a></p></li>
+</ul>
+</section>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./notes/project"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="../week10/class10C.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Class Meeting 10C</p>
+      </div>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#project-categories">Project Categories</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-generative-ai-and-student-learning">A. Generative AI and student learning</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#b-technological-inequality">B. Technological inequality</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#c-algorithmic-bias">C. Algorithmic Bias</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#d-financial-and-environmental-impacts-of-technology">D. Financial and Environmental impacts of technology</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#e-technology-and-crime">E. Technology and crime</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#project-contract">Project Contract</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-topics">Course Topics</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#logistics">Logistics</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#group-formation">Group Formation</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#group-contract-milestone-1">Group Contract (Milestone 1)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#project-proposal-milestone-2">Project Proposal (Milestone 2)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-and-inquiry-milestone-3">Research and Inquiry (Milestone 3)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#creating-a-digital-artifact-milestone-4">Creating a Digital Artifact (Milestone 4)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#finalizing-submission-and-feedback-milestone-5">Finalizing submission and feedback (Milestone 5)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#resources-for-working-in-teams">Resources for working in teams</a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Kemi Ola, Jessica Wong, Firas Moosvi
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+<div class="extra_footer">
+  <div>
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"></a>
+    All content on this site (unless otherwise specified) is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 license</a>
+</div>
+
+</div>
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
