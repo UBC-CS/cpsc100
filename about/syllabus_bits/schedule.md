@@ -14,8 +14,8 @@ Things may change depending on many factors so this is subject to change.
 | 9    | Oct 27  | Artificial Intelligence    | LL07 | Lab 7  | P3      | T7   |
 | 10   | Nov 3   | Data Mining                | LL08 | Lab 8  |         | T8   |
 | 11   | Nov 10  | Fall reading break         | -    | -      |         | -    |
-| 12   | Nov 17  | Data Provenance            | LL09 | Lab 9  | P4      | T9   |
-| 13   | Nov 24  | Data Visualization         | LL10 | Lab 10 |         | T10  |
+| 12   | Nov 17  | Data Visualization         | LL09 | Lab 9  | P4      | T9   |
+| 13   | Nov 24  | Data Provenance            | LL10 | Lab 10 |         | T10  |
 | 14   | Dec 1   | Final Projects             | LL11 | -      | P5      | T11  |
 
 <!-- January 2026
@@ -54,8 +54,8 @@ Things may change depending on many factors so this is subject to change.
 | 9    | Oct 27  | Artificial Intelligence    | Lab 7  | T7   | AI1, AI2, AI3                  |
 | 10   | Nov 3   | Data Mining                | Lab 8  | T8   | AI4, AI5, AI6                  |
 | 11   | Nov 10  | Fall reading break         | -      | -    |                                |
-| 12   | Nov 17  | Data Provenance            | Lab 9  | T9   | DMin 1, DMin 2, DMin 3         |
-| 13   | Nov 24  | Data Visualization         | Lab 10 | T10  | DPro 1, DPro 2, DPro 3         |
+| 12   | Nov 17  | Data Visualization         | Lab 9  | T9   | DMin 1, DMin 2, DMin 3         |
+| 13   | Nov 24  | Data Provenance            | Lab 10 | T10  | DPro 1, DPro 2, DPro 3         |
 | 14   | Dec 1   | Final Projects             | -      | T11  | Viz 1, Viz 2, Viz 3            |
 
 
