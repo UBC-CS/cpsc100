@@ -68,6 +68,7 @@ parts:
     sections:
       - file: notes/week12/class12A
       - file: notes/week12/class12B
+      - file: notes/week12/class12C
       # - file: notes/week12/class12C
 - caption: Course Project
   maxdepth: 2
