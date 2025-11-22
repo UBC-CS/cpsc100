@@ -82,6 +82,8 @@ project:
           title: Week 12 - Data Visualization
           children:
             - file: notes/week12/class12A.md
+            - file: notes/week12/class12B.md
+            - file: notes/week12/class12C.md
     - title: Course Project
       children:
         - file: notes/project/introduction.md
