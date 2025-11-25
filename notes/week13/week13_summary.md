@@ -2,4 +2,4 @@
 Week 13 Summary
 =======================
 
-This week we will be working with Maps data, a natural application of Graphs.
+This week we will are talking about the wonderful world of Data Visualizations!

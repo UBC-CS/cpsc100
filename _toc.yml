@@ -69,6 +69,12 @@ parts:
       - file: notes/week12/class12A
       - file: notes/week12/class12B
       - file: notes/week12/class12C
+  - file: notes/week13/week13_summary
+    title: Week 13 - Data Visualization
+    sections:
+      - file: notes/week13/class13A
+      # - file: notes/week12/class12B
+      # - file: notes/week12/class12C
       # - file: notes/week12/class12C
 - caption: Course Project
   maxdepth: 2
