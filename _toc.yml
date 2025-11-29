@@ -74,8 +74,7 @@ parts:
     sections:
       - file: notes/week13/class13A
       - file: notes/week13/class13B
-      # - file: notes/week12/class12C
-      # - file: notes/week12/class12C
+      - file: notes/week13/class13C
 - caption: Course Project
   maxdepth: 2
   chapters:
