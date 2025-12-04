@@ -3,5 +3,5 @@
 | {{ INSTRUCTOR }}; Instructor | {{ PRONOUNCE }}    | {{ FORUM_LINK }} | MWF 5 - 5:30 PM (MCML 360) |
 | {{ TA4 }}                    | {{ TA4pronounce }} | {{ FORUM_LINK }} | [Tuesday 12-1 PM](https://ubc.zoom.us/j/64912584154?pwd=NnXQ3J4NcB3xTBpPJvWOCSF4fon1Ql.)         |
 | {{ TA3 }}                    | {{ TA3pronounce }} | {{ FORUM_LINK }} | [Friday 3-4 PM](https://ubc.zoom.us/j/67332765872?pwd=9vpowBQTFtZ2RymAclGfOKtGlYL5Mg.1)         |
-| {{ TA2 }}                    | {{ TA2pronounce }} | {{ FORUM_LINK }} | [Thursday 4-5 PM]()         |
+| {{ TA2 }}                    | {{ TA2pronounce }} | {{ FORUM_LINK }} | [Thursday 4-5 PM](https://ubc.zoom.us/j/61426359104?pwd=WedGTGaJzGTSFtVLMo7HNwsW9YZwVH.1)         |
 | {{ TA1 }}                    | {{ TA1pronounce }} | {{ FORUM_LINK }} | N/A         |
