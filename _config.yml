@@ -66,34 +66,34 @@ sphinx:
 
       # Course Information
       COURSE_CODE: "CPSC 100"
-      SECTION: "101"
+      SECTION: "201"
       CREDITS: "3"
       TITLE: "Computational Thinking"
       PREREQS: "Pre-reqs: None. Not for students with existing credit for or exemption from CPSC 103, 107, CPSC 110 or APSC 160."
       COREQS: "N/A"
-      TERM: "2025 Winter Term 1"
-      ROOM: "MCML 360"
-      MEETING_TIMES: "Monday, Wednesday, Friday 16:00-17:00"
+      TERM: "2025 Winter Term 2"
+      ROOM: "ESB 1012"
+      MEETING_TIMES: "Monday, Wednesday, Friday 15:00-16:00"
       # FORMAT: "Lectures, Labs, Tutorials will all be running in-person."
 
       # Important Links
-      CANVAS_ID: "168026"
+      CANVAS_ID: "175706"
       CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID"
       #ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
       #ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
-      COURSE_LINK: "https://firas.moosvi.com/courses/cpsc100/2025W1"
-      FORUM_LINK: "[Ed Discussion](https://canvas.ubc.ca/courses/168026/external_tools/61381?display=borderless)"
+      COURSE_LINK: "https://firas.moosvi.com/courses/cpsc100/2025W2"
+      FORUM_LINK: "[Ed Discussion](https://canvas.ubc.ca/courses/175706/external_tools/61381?display=borderless)"
       TEXTBOOK: "We will not be needing a textbook for this course as you will be provided all the notes you need via the course website and linked materials."
-      ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/?course=cpsc100&term=2025W1)"
+      ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/?course=cpsc100&term=2025W2)"
       ASSOCIATE_HEAD: "Associate Head Undergrad [ah-ugrad@cs.ubc.ca](mailto:ah-ugrad@cs.ubc.ca)"
-      ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410/?course=cpsc100&term=2025W1)"
+      ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410/?course=cpsc100&term=2025W2)"
 
       # Withdrawal Dates and Exam Period
       # https://vancouver.calendar.ubc.ca/dates-and-deadlines
-      W_DATE_1: "11:59 PDT on Monday, September 15, 2025"
-      W_DATE_2: "11:59 PDT on Friday, October 24, 2025"
-      W_DATE_3: "11:59 PDT on Friday, October 24, 2025"
-      EXAM_PERIOD: "Tuesday December 9th - Saturday, December 20th, 2025"
+      W_DATE_1: "11:59 PDT on Friday, January 16, 2026"
+      W_DATE_2: "11:59 PDT on Friday, March 6, 2026"
+      W_DATE_3: "11:59 PDT on Friday, March 6, 2026"
+      EXAM_PERIOD: "Tuesday April 14th - Sunday, April 25th, 2026"
 
       # Course Policies
       GRACE_PERIOD: "48 hours"
@@ -101,8 +101,8 @@ sphinx:
       # TA Names
       TA4: "Victoria"
       TA4pronounce: "vik-TOR-ee-uh"
-      TA2: "Sam"
-      TA2pronounce: "SAM"
+      TA2: "Hae Ji"
+      TA2pronounce: ""
       TA3: "Parsa"
       TA3pronounce: "par-SAH"
       TA1: "Yuki"
