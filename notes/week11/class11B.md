@@ -2,7 +2,7 @@
 
 Today we will continue with the *Mary had a little lamb* example.
 
-:::{iframe} https://localhost:3100/files/LecNoSlides.pdf
+:::{iframe} http://localhost:3100/files/LecNoSlides.pdf
 Embedded Class slides
 :::
 ## Topics for today's lecture
