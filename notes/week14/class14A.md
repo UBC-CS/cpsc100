@@ -2,10 +2,9 @@
 
 We will summarize the contents of the course and -- for those of you interested in learning more about computer and/or data science -- suggest some directions in which you might go.
 
-<div>
-<iframe src="../../Lec20_Summary.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
-</div>
-
+:::{iframe} http://localhost:3100/files/Lec20_Summary.pdf
+Embedded Class slides
+:::
 [Download the Slides from today](https://github.com/ubc-cs/cpsc203/raw/main/files/Lec20_Summary.pdf)
 
 ## Links for today

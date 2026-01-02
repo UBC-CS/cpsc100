@@ -2,10 +2,9 @@
 
 Today we will continue with the *Mary had a little lamb* example.
 
-<div>
-<iframe src="../../LecNoSlides.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
-</div>
-
+:::{iframe} http://localhost:3100/files/LecNoSlides.pdf
+Embedded Class slides
+:::
 ## Topics for today's lecture
 
 TBA.
