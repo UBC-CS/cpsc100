@@ -8,7 +8,7 @@ We will leave the website open even after the course is over for a reasonable nu
 <iframe src="../../Lecture6A-HCI1.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-<a href="../../Lecture6A-HCI1.pdf">Download the Slides from today></a>.
+<a href="../../Lecture6A-HCI1.pdf">Download the Slides from today!</a>.
 
 ## Acknowledgements
 
