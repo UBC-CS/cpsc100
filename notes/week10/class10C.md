@@ -4,7 +4,7 @@ Below are the slides from today's class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
 We will leave the website open even after the course is over for a reasonable number of years.
 
-:::{iframe} http://localhost:3100/files/Lecture10C-DataMining3.pdf
+:::{iframe} https://localhost:3100/files/Lecture10C-DataMining3.pdf
 Embedded Class slides
 :::
 
