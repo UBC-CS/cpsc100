@@ -1,4 +1,6 @@
-![](../images/header.jpg)
+# CPSC 100 - Computational Thinking
+
+<!-- ![](../images/header.jpg) -->
 
 ![](../images/UBC_CS.png)
 
@@ -13,9 +15,9 @@ This course website is currently under construction.  The *Unsyllabus* and *Abou
 ```
 -->
 
-
 (unsyllabus)=
-# Unsyllabus
+## Unsyllabus
+
 
 ```{include} unsyllabus_bits/main_nav.md
 ```

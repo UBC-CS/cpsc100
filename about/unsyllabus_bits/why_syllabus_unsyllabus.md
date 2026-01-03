@@ -38,7 +38,8 @@ At various points in the term, I will invite you to provide feedback on how thin
 | Syllabus   | University-mandated, like a legal contract and contains university rules about conduct and behaviour;  elements will not change.                                                                   |
 | Unsyllabus | Living document, responsive to student feedback and adaptable to circumstances; elements may change, usually to the benefit of students and of learning. |
 
-```{important} Please note that I have your best interests in mind, and it is highly unlikely that I will ever change the unsyllabus in a way that negatively affects the class, or even individual students. If you believe a change is affecting you negatively, please reach out to me on {{ FORUM_LINK }}.
+```{important} A note about changes
+Please note that I have your best interests in mind, and it is highly unlikely that I will ever change the unsyllabus in a way that negatively affects the class, or even individual students. If you believe a change is affecting you negatively, please reach out to me on {{ FORUM_LINK }}.
 <!--
 , or submit your feedback using the anonymous {{ ANON_FEEDBACK }}.
 -->

@@ -3,22 +3,22 @@ Things may change depending on many factors so this is subject to change.
 
 <!-- January 2026 -->
 
-| Week | Week of | Topic               | LL   | Lab    | Project | Test (Content)           |
-|------|---------|---------------------|------|--------|---------|--------------------------|
-| 1    | Jan 5   | Introductions       | LL0  | Lab 0  |         | -                        |
-| 2    | Jan 12  | Algorithms I        | LL1  | Lab 1  |         | T1 (Intro)               |
-| 3    | Jan 19  | Algorithms II       | LL2  | Lab 2  | PM1     | T2 (Alg I)               |
-| 4    | Jan 26  | Data Representation | LL3  | Lab 3  |         | T3 (Alg II)              |
-| 5    | Feb 2   | Programming I       | LL4  | Lab 4  | PM2     | T4 (Data Rep)            |
-| 6    | Feb 9   | Programming II      | LL5  | Lab 5  |         | T5 (Programming I)       |
-| 7    | Feb 16  | Reading week        | -    | -      |         | -                        |
-| 8    | Feb 23  | Internet and HCI    | LL06 | Lab 6  | PM3     | T6 (Programming II)      |
-| 9    | Mar 2   | AI I                | LL07 | Lab 7  |         | T7 (Internet & HCI)      |
-| 10   | Mar 9   | AI II               | LL08 | Lab 8  | PM4     | T8 (AI I)                |
-| 11   | Mar 16  | Catch-up week       | -    | -      |         | -                        |
-| 12   | Mar 23  | Data Mining         | LL09 | Lab 9  |         | T9 (AI II)               |
-| 13   | Mar 30  | Data Visualization  | LL10 | Lab 10 | PM5     | T10 (Data mining)        |
-| 14   | Apr 6   | Final Projects      | LL11 | -      |         | T11 (Data Visualization) |
+| Week | Week of | Topic               | LL   | Lab    | Project | Test (Content)          |
+|------|---------|---------------------|------|--------|---------|-------------------------|
+| 1    | Jan 5   | Introductions       | LL0  | Lab 0  |         | -                       |
+| 2    | Jan 12  | Algorithms I        | LL1  | Lab 1  |         | T1 (Intro)              |
+| 3    | Jan 19  | Algorithms II       | LL2  | Lab 2  | PM1     | T2 (Alg I)              |
+| 4    | Jan 26  | Data Representation | LL3  | Lab 3  |         | T3 (Alg II)             |
+| 5    | Feb 2   | Programming I       | LL4  | Lab 4  | PM2     | T4 (Data Rep)           |
+| 6    | Feb 9   | Programming II      | LL5  | Lab 5  |         | T5 (Programming I)      |
+| 7    | Feb 16  | Reading week        | -    | -      |         | -                       |
+| 8    | Feb 23  | Internet and HCI    | LL06 | Lab 6  | PM3     | T6 (Programming II)     |
+| 9    | Mar 2   | Data Visualization  | LL07 | Lab 7  |         | T7 (Internet & HCI)     |
+| 10   | Mar 9   | AI I                | LL08 | Lab 8  | PM4     | T8 (Data Visualization) |
+| 11   | Mar 16  | Catch-up week       | -    | -      |         | -                       |
+| 12   | Mar 23  | AI II               | LL09 | Lab 9  | PM5     | T9 (AI I)               |
+| 13   | Mar 30  | Data Mining         | LL10 | Lab 10 |         | T10 (AI II)             |
+| 14   | Apr 6   | Final Projects      | LL11 | -      |         | T11 (Data Mining)       |
 
 <!-- 
 | Week | Week of | Topic                      | LL   | Lab    | Project | Test |
