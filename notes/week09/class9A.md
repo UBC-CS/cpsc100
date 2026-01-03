@@ -2,9 +2,10 @@
 
 Today we will be wrapping up our Voronoi Art code.
 
-:::{iframe} http://localhost:3100/files/Lec14_Voronoi2.pdf
-Embedded Class slides
-:::
+<div>
+<iframe src="../../Lec14_Voronoi2.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+</div>
+
 [Download the Slides from today](https://github.com/ubc-cs/cpsc203/raw/main/files/Lec14_Voronoi2.pdf)
 
 ## Topics for today's lecture

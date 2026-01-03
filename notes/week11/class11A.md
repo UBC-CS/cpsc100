@@ -2,9 +2,10 @@
 
 Today we will be working on creating some music (and later linking it back to Graphs)!
 
-:::{iframe} http://localhost:3100/files/Lec16_MHaLL.pdf
-Embedded Class slides
-:::
+<div>
+<iframe src="../../Lec16_MHaLL.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+</div>
+
 [Download the Slides from today](https://github.com/ubc-cs/cpsc203/raw/main/files/Lec16_MHaLL.pdf)
 
 ## Topics for today's lecture

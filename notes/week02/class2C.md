@@ -4,11 +4,11 @@ Below are the slides from today's class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
 We will leave the website open even after the course is over for a reasonable number of years.
 
-:::{iframe} http://localhost:3100/files/Lecture2C-AI_Algorithms.pdf
-Embedded Class slides
-:::
+<div>
+<iframe src="../../Lecture2C-AI_Algorithms.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+</div>
 
-<a href="../../files/Lecture2C-AI_Algorithms.pdf">Download the Slides from today!</a>
+<a href="../../Lecture2C-AI_Algorithms.pdf">Download the Slides from today!</a>.
 
 ## Acknowledgements
 
