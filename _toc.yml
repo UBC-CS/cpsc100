@@ -8,13 +8,13 @@ parts:
   - file: about/accommodations
   - file: about/faq
 
-# - caption: Class Slides
-#   maxdepth: 2
-#   chapters:
-#   - file: notes/week01/week01_summary
-#     title: Week 1 - Introductions!
-#     sections:
-#       - file: notes/week01/class1B
+- caption: Class Slides
+  chapters:
+  - file: notes/week01/week01_summary
+    title: Week 1 - Introductions!
+    sections:
+      - file: notes/week01/class1A
+#      - file: notes/week01/class1B
 #       - file: notes/week01/class1C
 #   - file: notes/week02/week02_summary
 #     title: Week 2 - Algorithms I
