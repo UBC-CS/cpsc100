@@ -5,7 +5,7 @@ Things may change depending on many factors so this is subject to change.
 
 | Week | Week of | Topic                      | LL   | Lab    | Project | Test (Content)           |
 |------|---------|----------------------------|------|--------|---------|--------------------------|
-| 1    | Jan 5   | Introductions              | LL0  | Lab 0  |         | -                        |
+| 1    | Jan 5   | Introductions              | LL0  | -      |         | -                        |
 | 2    | Jan 12  | Algorithms I               | LL1  | Lab 1  |         | T1 (Intro)               |
 | 3    | Jan 19  | Algorithms II              | LL2  | Lab 2  | PM1     | T2 (Alg I)               |
 | 4    | Jan 26  | Data Representation        | LL3  | Lab 3  |         | T3 (Alg II)              |
