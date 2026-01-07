@@ -15,7 +15,7 @@ parts:
     sections:
       - file: notes/week01/class1A
       - file: notes/week01/class1B
-#       - file: notes/week01/class1C
+      # - file: notes/week01/class1C
 #   - file: notes/week02/week02_summary
 #     title: Week 2 - Algorithms I
 #     sections:
