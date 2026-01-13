@@ -4,11 +4,13 @@ Below are the slides from today's class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
 We will leave the website open even after the course is over for a reasonable number of years.
 
+## Slides updated after class with algorithm descriptions
+
 <div>
-<iframe src="../../Lecture2A-Algorithms1_before.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="../../Lecture2A-Algorithms.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-<a href="../../Lecture2A-Algorithms1_before.pdf">Download the Slides from today!</a>.
+<a href="../../Lecture2A-Algorithms.pdf">Download the Slides from today!</a>.
 
 ## Acknowledgements
 
