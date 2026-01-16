@@ -21,7 +21,7 @@ parts:
     sections:
       - file: notes/week02/class2A
       - file: notes/week02/class2B
-#       - file: notes/week02/class2C
+      - file: notes/week02/class2C
 #   - file: notes/week03/week03_summary
 #     title: Week 3 - Algorithms II
 #     sections:
