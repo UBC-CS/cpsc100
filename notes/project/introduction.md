@@ -11,11 +11,11 @@ There are five deliverables for the project, here's a high-level summary of the 
 
 | Deliverable                                            | Weight | Due Date |
 |--------------------------------------------------------|--------|----------|
-| Milestone 1 - Group Formation and Teamwork Contract    | 2%     | Oct 14   |
-| Milestone 2 - Project Proposal                         | 5%     | Nov 3    |
-| Milestone 3 - Project Report (Individual Contribution) | 8%     | Nov 19   |
-| Milestone 4 - Digital Artifact (Group Contribution)    | 8%     | Nov 28   |
-| Milestone 5 - Final Presentation & Peer Review         | 2%     | Dec 5    |
+| Milestone 1 - Group Formation and Teamwork Contract    | 2%     | TBD   |
+| Milestone 2 - Project Proposal                         | 5%     | TBD    |
+| Milestone 3 - Project Report (Individual Contribution) | 8%     | TBD  |
+| Milestone 4 - Digital Artifact (Group Contribution)    | 8%     | TBD   |
+| Milestone 5 - Final Presentation & Peer Review         | 2%     | TBD    |
 
 Milestone 3 will be submitted individually; all other deliverables will be evaluated as a group (one submission and score for all group members).
 

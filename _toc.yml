@@ -75,11 +75,11 @@ parts:
 #       - file: notes/week13/class13A
 #       - file: notes/week13/class13B
 #       - file: notes/week13/class13C
-# - caption: Course Project
-#   maxdepth: 2
-#   chapters:
-#   - file: notes/project/introduction
-#     title: Introduction to the Project
+- caption: Course Project
+  maxdepth: 2
+  chapters:
+  - file: notes/project/introduction
+    title: Introduction to the Project
 
 # - caption: Lab Materials
 #   chapters:
