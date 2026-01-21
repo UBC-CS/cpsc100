@@ -5,10 +5,10 @@ Feel free to download them to keep them locally, or leave them archived here and
 We will leave the website open even after the course is over for a reasonable number of years.
 
 <div>
-<iframe src="../../Lecture3C-Programming1.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="../../Lecture3C-Algorithms_AI.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-<a href="../../Lecture3C-Programming1.pdf">Download the Slides from today!</a>.
+<a href="../../Lecture3C-Algorithms_AI.pdf">Download the Slides from today!</a>.
 
 ## Acknowledgements
 
