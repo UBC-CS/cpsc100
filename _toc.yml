@@ -28,11 +28,11 @@ parts:
       - file: notes/week03/class3A
       - file: notes/week03/class3B
       - file: notes/week03/class3C
-#   - file: notes/week04/week04_summary
-#     title: Week 4 - Data Representation
-#     sections:
-#       - file: notes/week04/class4A
-#       - file: notes/week04/class4B
+  - file: notes/week04/week04_summary
+    title: Week 4 - Data Representation
+    sections:
+      - file: notes/week04/class4A
+      - file: notes/week04/class4B
 #       - file: notes/week04/class4C
 #   - file: notes/week05/week05_summary
 #     title: Week 5 - Programming I
