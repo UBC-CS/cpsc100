@@ -4,4 +4,4 @@
 | {{ TA4 }}                    | {{ TA4pronounce }} | {{ FORUM_LINK }} | [Tues 12-1 PM on Zoom](https://ubc.zoom.us/j/61021312038?pwd=mC0h3kw85Y9lpxwU0sus1WaPrnBuVW.1) |
 | {{ TA3 }}                    | {{ TA3pronounce }} | {{ FORUM_LINK }} | [TBD]()    |
 | {{ TA2 }}                    | {{ TA2pronounce }} | {{ FORUM_LINK }} | [Fri 12-1 PM on Zoom](https://ubc.zoom.us/j/65677979354?pwd=Q44hbtgASit7tDPbeKpy3sgzacnqXR.1)   |
-| {{ TA1 }}                    | {{ TA1pronounce }} | {{ FORUM_LINK }} | [Thurs 12:30 - 1:30 PM on Zoom](https://ubc.zoom.us/j/64368950626?pwd=VMkbsIlobmhuyi13XYCGwoaui9K726.1)         |
+| {{ TA1 }}                    | {{ TA1pronounce }} | {{ FORUM_LINK }} | [Thurs 12:30 - 1:30 PM on Zoom](https://ubc.zoom.us/j/66438541059?pwd=z4mp7emcoaXYIs8H087KX3EXTYRwpJ.1)         |
