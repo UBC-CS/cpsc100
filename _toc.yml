@@ -34,12 +34,12 @@ parts:
       - file: notes/week04/class4A
       - file: notes/week04/class4B
       - file: notes/week04/class4C
-#   - file: notes/week05/week05_summary
-#     title: Week 5 - Programming I
-#     sections:
-#       - file: notes/week05/class5A
-#       - file: notes/week05/class5B
-#       - file: notes/week05/class5C
+  - file: notes/week05/week05_summary
+    title: Week 5 - Programming I
+    sections:
+      - file: notes/week05/class5A
+      - file: notes/week05/class5B
+      - file: notes/week05/class5C
 #   - file: notes/week06/week06_summary
 #     title: Week 6 - Programming II
 #     sections:

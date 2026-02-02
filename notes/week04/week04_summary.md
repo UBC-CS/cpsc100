@@ -2,4 +2,4 @@
 Week 4 Summary
 =======================
 
-This week we will be learning about Programming concepts!
+This week we will be learning about Data Representation!
