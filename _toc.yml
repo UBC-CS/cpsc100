@@ -40,10 +40,10 @@ parts:
       - file: notes/week05/class5A
       - file: notes/week05/class5B
       - file: notes/week05/class5C
-#   - file: notes/week06/week06_summary
-#     title: Week 6 - Programming II
-#     sections:
-#       - file: notes/week06/class6A
+  - file: notes/week06/week06_summary
+    title: Week 6 - Programming II
+    sections:
+      - file: notes/week06/class6A
 #       - file: notes/week06/class6B
 #       - file: notes/week06/class6C
 #   - file: notes/week08/week08_summary

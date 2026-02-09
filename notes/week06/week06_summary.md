@@ -2,4 +2,4 @@
 Week 6 Summary
 =======================
 
-This week we will start introducing HCI and lead into the internet!
+This week we will continue working with Programming in Snap!
