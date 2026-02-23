@@ -1,14 +1,14 @@
-# Class Meeting 6C
+# Class Meeting 8A
 
 Below are the slides from today's class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
 We will leave the website open even after the course is over for a reasonable number of years.
 
 <div>
-<iframe src="../../Lecture6C-Internet1.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="../../Lecture8A-Internet2_updated.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-<a href="../../Lecture6C-Internet1.pdf">Download the Slides from today!</a>.
+<a href="../../Lecture8A-Internet2_updated.pdf">Download the Slides from today!</a>.
 
 ## Acknowledgements
 

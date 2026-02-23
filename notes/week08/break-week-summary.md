@@ -1,5 +1,5 @@
-(page_topic7)=
-Week 7 Summary
+(page_topic8)=
+Week 8 Summary
 =======================
 
 This week there is no new content in this course - it's Reading week!

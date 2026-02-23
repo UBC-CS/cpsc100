@@ -7,16 +7,16 @@ Things may change depending on many factors so this is subject to change.
 |------|---------|----------------------------|------|--------|---------|--------------------------|
 | 1    | Jan 5   | Introductions              | LL0  | -      |         | -                        |
 | 2    | Jan 12  | Algorithms I               | LL1  | Lab 1  |         | T1 (Intro)               |
-| 3    | Jan 19  | Algorithms II              | LL2  | Lab 2  | PM1     | T2 (Alg I)               |
+| 3    | Jan 19  | Algorithms II              | LL2  | Lab 2  |         | T2 (Alg I)               |
 | 4    | Jan 26  | Data Representation        | LL3  | Lab 3  |         | T3 (Alg II)              |
-| 5    | Feb 2   | Programming I              | LL4  | Lab 4  | PM2     | T4 (Data Rep)            |
-| 6    | Feb 9   | Programming II             | LL5  | Lab 5  |         | T5 (Programming I)       |
+| 5    | Feb 2   | Programming I              | LL4  | Lab 4  | PM1     | T4 (Data Rep)            |
+| 6    | Feb 9   | Programming II             | LL5  | Lab 5  | PM2     | T5 (Programming I)       |
 | 7    | Feb 16  | Reading week               | -    | -      |         | -                        |
-| 8    | Feb 23  | Internet and HCI           | LL6 | Lab 6  | PM3     | T6 (Programming II)      |
-| 9    | Mar 2   | Artificial Intelligence I  | LL7 | Lab 7  |         | T7 (Internet & HCI)      |
-| 10   | Mar 9   | Artificial Intelligence II | LL8 | Lab 8  | PM4     | T8 (AI I)                |
+| 8    | Feb 23  | Internet and HCI           | LL6  | Lab 6  | PM3     | T6 (Programming II)      |
+| 9    | Mar 2   | Artificial Intelligence I  | LL7  | Lab 7  |         | T7 (Internet & HCI)      |
+| 10   | Mar 9   | Artificial Intelligence II | LL8  | Lab 8  | PM4     | T8 (AI I)                |
 | 11   | Mar 16  | Catch-up week              | -    | -      |         | -                        |
-| 12   | Mar 23  | Data Mining                | LL9 | Lab 9  |         | T9 (AI II)               |
+| 12   | Mar 23  | Data Mining                | LL9  | Lab 9  |         | T9 (AI II)               |
 | 13   | Mar 30  | Data Visualization         | LL10 | Lab 10 | PM5     | T10 (Data mining)        |
 | 14   | Apr 6   | Final Projects             | LL11 | -      |         | T11 (Data Visualization) |
 
