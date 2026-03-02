@@ -52,10 +52,11 @@ parts:
       - file: notes/week08/class8A
       - file: notes/week08/class8B
       - file: notes/week08/class8C
-#   - file: notes/week09/week09_summary
-#     title: Week 9 - AI I
-#     sections:
-#       - file: notes/week09/class9B
+  - file: notes/week09/week09_summary
+    title: Week 9 - AI I
+    sections:
+      - file: notes/week09/class9A
+#      - file: notes/week09/class9B
 #       - file: notes/week09/class9C
 #   - file: notes/week10/week10_summary
 #     title: Week 10 - AI II
