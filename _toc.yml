@@ -58,11 +58,11 @@ parts:
       - file: notes/week09/class9A
       - file: notes/week09/class9B
       - file: notes/week09/class9C
-#   - file: notes/week10/week10_summary
-#     title: Week 10 - AI II
-#     sections:
-#       - file: notes/week10/class10A
-#       - file: notes/week10/class10B
+  - file: notes/week10/week10_summary
+    title: Week 10 - AI II
+    sections:
+      # - file: notes/week10/class10A
+      - file: notes/week10/class10B
 #       - file: notes/week10/class10C
 #   - file: notes/week12/week12_summary
 #     title: Week 12 - Data Mining  
