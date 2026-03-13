@@ -63,7 +63,7 @@ parts:
     sections:
       # - file: notes/week10/class10A
       - file: notes/week10/class10B
-#       - file: notes/week10/class10C
+      - file: notes/week10/class10C
 #   - file: notes/week12/week12_summary
 #     title: Week 12 - Data Mining  
 #     sections:
