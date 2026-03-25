@@ -1,5 +1,5 @@
-(page_topic12)=
-Week 12 Summary
+(page_topic11)=
+Week 11 Summary
 =======================
 
-This week we will are talking about the wonderful world of Data Visualizations!
+This week we will continue our discussion on Data Mining.
