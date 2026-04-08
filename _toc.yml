@@ -76,6 +76,10 @@ parts:
       - file: notes/week13/class13A
       - file: notes/week13/class13B
 #       - file: notes/week13/class13C
+  - file: notes/week14/week14_summary
+    title: Week 14 - Data Visualization
+    sections:
+      - file: notes/week13/class14A
 - caption: Course Project
   maxdepth: 2
   chapters:
